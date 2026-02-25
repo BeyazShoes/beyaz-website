@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en" data-page="product">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Product – BEYAZ</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=Montserrat:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body data-page="product">
+  <!-- Header -->
+  <header>
+    <div class="nav-container">
+      <a href="index.html" class="logo">
+        <img src="assets/images/logo.png" alt="BEYAZ logo" />
+        BEYAZ
+      </a>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="catalog.html">Catalog</a></li>
+          <li><a href="wholesale.html">Wholesale</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <div class="featured-section" style="padding-top: 3rem;">
+    <h2 class="product-title">Product Name</h2>
+    <div style="display:flex; flex-wrap: wrap; gap:2rem; margin-top:2rem;">
+      <div style="flex:1 1 300px; min-width:260px;">
+        <img class="product-image-main" src="" alt="Product image" style="width:100%; height:auto; border:1px solid #eee;" />
+      </div>
+      <div style="flex:1 1 300px; min-width:260px;">
+        <h3 style="font-family:var(--font-heading); font-size:1.5rem; margin-top:0;">Description</h3>
+        <p class="product-description"></p>
+        <h4 style="font-family:var(--font-heading); font-size:1.25rem; margin-top:1.5rem;">Materials</h4>
+        <p class="product-materials"></p>
+        <h4 style="font-family:var(--font-heading); font-size:1.25rem; margin-top:1rem;">Sizes</h4>
+        <p class="product-sizes"></p>
+        <h4 style="font-family:var(--font-heading); font-size:1.25rem; margin-top:1rem;">Colorways</h4>
+        <p class="product-colorways"></p>
+        <h4 style="font-family:var(--font-heading); font-size:1.25rem; margin-top:1rem;">Care</h4>
+        <p class="product-care"></p>
+        <h4 style="font-family:var(--font-heading); font-size:1.25rem; margin-top:1rem;">Lead Time</h4>
+        <p class="product-lead-time"></p>
+        <h4 style="font-family:var(--font-heading); font-size:1.25rem; margin-top:1rem;">Minimum Order Quantity</h4>
+        <p class="product-moq"></p>
+      </div>
+    </div>
+    <div style="margin-top:2rem;">
+      <h3 style="font-family:var(--font-heading);">Request a Quote</h3>
+      <form id="inquiry-form" action="mailto:beyazistanbulshoes@gmail.com" method="post" enctype="text/plain" style="max-width:600px;">
+        <input type="hidden" name="product_id" value="" />
+        <input type="hidden" name="product_name" value="" />
+        <div style="margin-bottom:1rem;">
+          <label for="name">Your Name</label><br />
+          <input type="text" id="name" name="name" required />
+        </div>
+        <div style="margin-bottom:1rem;">
+          <label for="email">Email</label><br />
+          <input type="email" id="email" name="email" required />
+        </div>
+        <div style="margin-bottom:1rem;">
+          <label for="company">Company</label><br />
+          <input type="text" id="company" name="company" />
+        </div>
+        <div style="margin-bottom:1rem;">
+          <label for="message">Message</label><br />
+          <textarea id="message" name="message" rows="4" placeholder="Please include quantities, size range and any special requests..." required></textarea>
+        </div>
+        <button type="submit" class="button">Send Inquiry</button>
+      </form>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <div class="footer-content">
+      <p>&copy; 2026 BEYAZ Istanbul Shoes. All rights reserved.</p>
+      <p><a href="mailto:beyazistanbulshoes@gmail.com" style="color: #eee;">beyazistanbulshoes@gmail.com</a> • <a href="tel:+17203570338" style="color: #eee;">+1 (720) 357‑0338</a></p>
+    </div>
+  </footer>
+
+  <script src="assets/js/scripts.js"></script>
+</body>
+</html>
