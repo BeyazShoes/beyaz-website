@@ -1,0 +1,30 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "assets/images/uploads"
+public_folder: "/assets/images/uploads"
+
+collections:
+  - name: "products"
+    label: "Products"
+    folder: "data/products"
+    create: true
+    extension: "json"
+    format: "json"
+    identifier_field: "id"
+    fields:
+      - { name: "id", label: "Product ID", widget: "string" }
+      - { name: "name", label: "Name", widget: "string" }
+      - { name: "category", label: "Category", widget: "select", options: ["men", "women"] }
+      - { name: "image", label: "Image", widget: "image" }
+      - { name: "price", label: "Price", widget: "string" }
+      - { name: "materials", label: "Materials", widget: "string" }
+      - { name: "sizes", label: "Sizes", widget: "string" }
+      - { name: "colorways", label: "Colorways", widget: "string" }
+      - { name: "care", label: "Care", widget: "text" }
+      - { name: "lead_time", label: "Lead Time", widget: "string" }
+      - { name: "moq", label: "Minimum Order Quantity", widget: "number" }
+      - { name: "description", label: "Description", widget: "text" }
+      - { name: "new", label: "New Arrival", widget: "boolean", default: false }
+      - { name: "bestSeller", label: "Best Seller", widget: "boolean", default: false }
