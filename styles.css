@@ -57,30 +57,32 @@ header {
   padding: 0.75rem 1rem;
 }
 
-    .logo {
-      display: flex;
-      align-items: center;
-      font-weight: 700;
-      /* Increase the size of the brand name for a more prominent presence */
-      font-size: 1.8rem;
-      letter-spacing: 0.05em;
-      margin-right: 1rem;
-    }
+.logo {
+  display: flex;
+  align-items: center;
+  font-weight: 700;
+  font-size: 2rem; /* increased brand size */
+  letter-spacing: 0.05em;
+  margin-right: 1.5rem; /* add spacing between logo and nav */
+}
 
-    .logo img {
-      /* Make the logo mark larger and add spacing so it doesn't crowd the nav */
-      height: 70px;
-      margin-right: 0.75rem;
-    }
+.logo img {
+  height: 80px; /* enlarge logo image */
+  margin-right: 0.75rem;
+}
 
 nav ul {
-      list-style: none;
-      display: flex;
-      /* Increase the gap between navigation items and the logo for better spacing */
-      gap: 2rem;
-      margin: 0;
-      padding: 0;
-    }
+  list-style: none;
+  display: flex;
+  gap: 2rem; /* increase spacing between nav items */
+  margin: 0;
+  padding: 0;
+}
+
+/* Add left margin to navigation to separate from logo */
+.nav-container nav {
+  margin-left: 2rem;
+}
 
 nav li {
   position: relative;
@@ -95,11 +97,6 @@ nav a {
 nav a:hover {
   color: var(--color-accent);
 }
-
-    /* Add some left margin to separate the navigation from the logo */
-    .nav-container nav {
-      margin-left: 1rem;
-    }
 
 /* Hero section */
 .hero {
