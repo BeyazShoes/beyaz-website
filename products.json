@@ -30,21 +30,5 @@
     "description": "These polished pumps are designed to carry you through life’s most meaningful moments. Minimalist lines meet luxurious craftsmanship.",
     "new": false,
     "bestSeller": true
-  },
-  {
-    "id": "chelsea-elegance",
-    "name": "Chelsea Elegance",
-    "category": "women",
-    "image": "product6.png",
-    "price": "Price on request",
-    "materials": "Polished leather, elastic panels",
-    "sizes": "EU 36–41",
-    "colorways": "Deep black",
-    "care": "Wipe clean and condition. Avoid water exposure.",
-    "lead_time": "5–6 weeks",
-    "moq": 10,
-    "description": "This Chelsea boot delivers understated sophistication. The sleek profile and elastic gussets ensure a snug, comfortable fit.",
-    "new": true,
-    "bestSeller": true
   }
 ]
