@@ -1,21 +1,5 @@
 [
   {
-    "id": "oxford-classic",
-    "name": "Oxford Classic",
-    "category": "men",
-    "image": "product1.png",
-    "price": "Price on request",
-    "materials": "Full‑grain leather, leather sole",
-    "sizes": "EU 39–45",
-    "colorways": "Black",
-    "care": "Clean with a soft cloth and apply leather conditioner as needed.",
-    "lead_time": "4–6 weeks",
-    "moq": 10,
-    "description": "A timeless Oxford shoe hand‑crafted from full‑grain leather. Its sleek silhouette and subtle stitching epitomize Istanbul craftsmanship.",
-    "new": true,
-    "bestSeller": false
-  },
-  {
     "id": "artisan-boot",
     "name": "Artisan Boots",
     "category": "women",
@@ -27,7 +11,7 @@
     "care": "Store in a cool, dry place. Brush lightly and condition to maintain suppleness.",
     "lead_time": "6–8 weeks",
     "moq": 12,
-    "description": "Rugged yet refined, these ankle boots blend Italian leather with Turkish craftsmanship for a boot that stands the test of time.",
+    "description": "Rugged yet refined, these ankle boots highlight Turkish leather and craftsmanship for a boot that stands the test of time.",
     "new": false,
     "bestSeller": true
   },
@@ -46,38 +30,6 @@
     "description": "These polished pumps are designed to carry you through life’s most meaningful moments. Minimalist lines meet luxurious craftsmanship.",
     "new": false,
     "bestSeller": true
-  },
-  {
-    "id": "city-loafers",
-    "name": "City Loafers",
-    "category": "men",
-    "image": "product4.png",
-    "price": "Price on request",
-    "materials": "Soft leather upper, leather outsole",
-    "sizes": "EU 40–46",
-    "colorways": "Cognac brown",
-    "care": "Use a neutral cream to nourish the leather. Buff for shine.",
-    "lead_time": "5–7 weeks",
-    "moq": 15,
-    "description": "Our slip‑on loafers fuse comfort and style. Each pair is cut and stitched by hand for a perfect fit.",
-    "new": true,
-    "bestSeller": false
-  },
-  {
-    "id": "heritage-boots",
-    "name": "Heritage Boots",
-    "category": "men",
-    "image": "product5.png",
-    "price": "Price on request",
-    "materials": "Tanned leather, rubber sole",
-    "sizes": "EU 39–45",
-    "colorways": "Chestnut",
-    "care": "Brush away dirt and condition periodically. Keep away from direct heat.",
-    "lead_time": "7–9 weeks",
-    "moq": 12,
-    "description": "Inspired by tradition, these boots feature sturdy uppers and a comfortable rubber sole. Perfect for everyday elegance.",
-    "new": false,
-    "bestSeller": false
   },
   {
     "id": "chelsea-elegance",
