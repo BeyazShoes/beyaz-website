@@ -84,7 +84,9 @@ async function initProductPage() {
   if (!product) return;
   // Populate elements
   document.querySelector('.product-title').textContent = product.name;
-  document.querySelector('.product-image-main').src = product.image;
+  // Main image
+  const mainImgEl = document.querySelector('.product-image-main');
+  mainImgEl.src = product.image;
   document.querySelector('.product-description').textContent = product.description;
   document.querySelector('.product-materials').textContent = product.materials;
   document.querySelector('.product-sizes').textContent = product.sizes;
@@ -92,6 +94,26 @@ async function initProductPage() {
   document.querySelector('.product-care').textContent = product.care;
   document.querySelector('.product-lead-time').textContent = product.lead_time;
   document.querySelector('.product-moq').textContent = product.moq;
+
+  // Populate thumbnails if multiple images exist
+  const thumbnailsContainer = document.querySelector('.product-thumbnails');
+  if (thumbnailsContainer && Array.isArray(product.images) && product.images.length > 1) {
+    thumbnailsContainer.innerHTML = '';
+    product.images.forEach((imgSrc) => {
+      const thumb = document.createElement('img');
+      thumb.src = imgSrc;
+      thumb.style.width = '60px';
+      thumb.style.height = '60px';
+      thumb.style.objectFit = 'cover';
+      thumb.style.cursor = 'pointer';
+      thumb.style.border = '1px solid #eee';
+      thumb.addEventListener('click', () => {
+        mainImgEl.src = imgSrc;
+      });
+      thumbnailsContainer.appendChild(thumb);
+    });
+  }
+
   // Set form hidden fields for inquiry
   const form = document.querySelector('#inquiry-form');
   if (form) {
