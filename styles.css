@@ -104,7 +104,8 @@ header.scrolled {
 }
 
 .logo img {
-  height: 580px;
+  width: min(95vw, 1100px);
+  height: auto;
   margin-right: 0;
 }
 
@@ -230,9 +231,9 @@ nav a.active {
   display: inline-block;
   padding: 0.85rem 2rem;
   border-radius: 2px;
-  border: 1px solid var(--color-accent);
+  border: 1px solid #111;
   color: #fff;
-  background-color: var(--color-accent);
+  background-color: #111;
   font-weight: 600;
   font-size: 0.78rem;
   letter-spacing: 0.12em;
@@ -241,22 +242,22 @@ nav a.active {
 }
 
 .button:hover {
-  background-color: #111;
+  background-color: #fff;
   border-color: #111;
   text-decoration: none;
-  color: #fff;
+  color: #111;
 }
 
 .button-outline {
   background-color: transparent;
-  color: var(--color-text);
-  border-color: var(--color-text);
+  color: #111;
+  border-color: #111;
 }
 
 .button-outline:hover {
-  background-color: #111;
+  background-color: #fff;
   border-color: #111;
-  color: #fff;
+  color: #111;
 }
 
 .button-white {
@@ -267,7 +268,7 @@ nav a.active {
 
 .button-white:hover {
   background-color: #fff;
-  color: var(--color-text);
+  color: #111;
 }
 
 /* ─── Credibility Section ─────────────────────────────────────────────── */
@@ -1001,7 +1002,8 @@ footer {
 
 @media (max-width: 480px) {
   .logo img {
-    height: 280px;
+    width: 92vw;
+    height: auto;
   }
 
   .hero .hero-content h1 {
