@@ -449,6 +449,33 @@ nav a.active {
   color: #fff;
 }
 
+/* ─── Catalog Search ──────────────────────────────────────────────────── */
+
+.catalog-search {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.25rem;
+}
+
+.catalog-search input {
+  width: 100%;
+  max-width: 480px;
+  padding: 0.75rem 1.25rem;
+  border: 1px solid #ccc;
+  border-radius: 2px;
+  font-size: 0.88rem;
+  font-family: var(--font-body);
+  letter-spacing: 0.03em;
+  background-color: #fafafa;
+  transition: border-color var(--transition);
+}
+
+.catalog-search input:focus {
+  outline: none;
+  border-color: var(--color-text);
+  background-color: #fff;
+}
+
 /* ─── Catalog Filters ─────────────────────────────────────────────────── */
 
 .filters {

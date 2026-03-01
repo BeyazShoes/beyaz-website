@@ -95,14 +95,20 @@ async function initCatalog() {
     });
   }
 
-  function applyFilter(filter) {
+  const searchInput = document.getElementById('catalog-search-input');
+
+  function applyFilterAndSearch() {
     let filtered = products;
-    if (filter === 'men' || filter === 'women') {
-      filtered = products.filter((p) => p.category === filter);
-    } else if (filter === 'new') {
-      filtered = products.filter((p) => p.new);
-    } else if (filter === 'bestseller') {
-      filtered = products.filter((p) => p.bestSeller);
+    if (activeFilter === 'men' || activeFilter === 'women') {
+      filtered = filtered.filter((p) => p.category === activeFilter);
+    } else if (activeFilter === 'new') {
+      filtered = filtered.filter((p) => p.new);
+    } else if (activeFilter === 'bestseller') {
+      filtered = filtered.filter((p) => p.bestSeller);
+    }
+    if (searchInput && searchInput.value.trim()) {
+      const query = searchInput.value.trim().toLowerCase();
+      filtered = filtered.filter((p) => p.name.toLowerCase().includes(query));
     }
     render(filtered);
   }
@@ -110,15 +116,18 @@ async function initCatalog() {
   filterButtons.forEach((btn) => {
     btn.addEventListener('click', (e) => {
       e.preventDefault();
-      const filter = btn.dataset.filter;
-      activeFilter = filter;
+      activeFilter = btn.dataset.filter;
       filterButtons.forEach((b) => b.classList.remove('active'));
       btn.classList.add('active');
-      applyFilter(filter);
+      applyFilterAndSearch();
     });
   });
 
-  applyFilter(activeFilter);
+  if (searchInput) {
+    searchInput.addEventListener('input', applyFilterAndSearch);
+  }
+
+  applyFilterAndSearch();
 }
 
 // ─── Product Detail Page ────────────────────────────────────────────────────
