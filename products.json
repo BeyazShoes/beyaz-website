@@ -1567,5 +1567,673 @@
         "category":  "women",
         "new":  false,
         "bestSeller":  false
+    },
+    {
+        "id":  "shoe-93",
+        "name":  "Red Suede Bow Sneaker (STYLE 93)",
+        "image":  "12e78d38-e152-46a8-88b1-ec1503dc9bfd.JPG",
+        "images":  [
+                       "12e78d38-e152-46a8-88b1-ec1503dc9bfd.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-94",
+        "name":  "Dark Brown Beaded Boat Shoe (STYLE 94)",
+        "image":  "14b99dd3-0267-47aa-95d1-9af7ce424dc1.JPG",
+        "images":  [
+                       "14b99dd3-0267-47aa-95d1-9af7ce424dc1.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-95",
+        "name":  "Black Leather Mary Jane - Gum Sole (STYLE 95)",
+        "image":  "1675931b-920e-4f3b-96a4-0cc1d0d175db.JPG",
+        "images":  [
+                       "1675931b-920e-4f3b-96a4-0cc1d0d175db.JPG",
+                       "69d548f2-ab16-4f9d-9e50-b524d86ec080.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-96",
+        "name":  "Tan Suede Lace-Up Boat Shoe (STYLE 96)",
+        "image":  "19e50a36-4a8d-446c-8970-b41bb2792df8.JPG",
+        "images":  [
+                       "19e50a36-4a8d-446c-8970-b41bb2792df8.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-97",
+        "name":  "Navy Suede Penny Loafer (STYLE 97)",
+        "image":  "289650c2-0ebd-4e9d-976c-c93c98e1b70d.JPG",
+        "images":  [
+                       "289650c2-0ebd-4e9d-976c-c93c98e1b70d.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-98",
+        "name":  "Brown Perforated Monk Strap Sneaker (STYLE 98)",
+        "image":  "2a977033-7cba-46db-8d4f-d3e8a7a80d04.JPG",
+        "images":  [
+                       "2a977033-7cba-46db-8d4f-d3e8a7a80d04.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-99",
+        "name":  "Brown Woven Suede Mary Jane (STYLE 99)",
+        "image":  "41a2def6-7aff-49a7-b7f0-388122973f69.JPG",
+        "images":  [
+                       "41a2def6-7aff-49a7-b7f0-388122973f69.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-100",
+        "name":  "Dark Brown Raffia Woven Mule (STYLE 100)",
+        "image":  "50bd2291-ae7d-4c14-88ee-32fe34a255f2.JPG",
+        "images":  [
+                       "50bd2291-ae7d-4c14-88ee-32fe34a255f2.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-101",
+        "name":  "Dark Brown Croco Penny Loafer Mule (STYLE 101)",
+        "image":  "5f93ebbb-9181-4dc2-b48b-155fa6f75d2c.JPG",
+        "images":  [
+                       "5f93ebbb-9181-4dc2-b48b-155fa6f75d2c.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-102",
+        "name":  "All-Black Suede Leather Sneaker (STYLE 102)",
+        "image":  "67d8b35f-f4a4-421f-8cc4-7b28ec904051.JPG",
+        "images":  [
+                       "67d8b35f-f4a4-421f-8cc4-7b28ec904051.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-103",
+        "name":  "Camel Woven Leather Runner Sneaker (STYLE 103)",
+        "image":  "7eed9f74-e8ec-4d97-b2b6-0262ebccc2ed.JPG",
+        "images":  [
+                       "7eed9f74-e8ec-4d97-b2b6-0262ebccc2ed.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-104",
+        "name":  "Burgundy Suede Runner Sneaker (STYLE 104)",
+        "image":  "7f2a99a2-5338-43a2-8220-4a75730d87c5.JPG",
+        "images":  [
+                       "7f2a99a2-5338-43a2-8220-4a75730d87c5.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-105",
+        "name":  "Black Patent Lace-Up Boat Shoe (STYLE 105)",
+        "image":  "7732e441-b8e4-4e3b-aabd-7dcbd05007cc.JPG",
+        "images":  [
+                       "7732e441-b8e4-4e3b-aabd-7dcbd05007cc.JPG",
+                       "99ef590e-37fe-44d0-b4d8-64f473f60d7d.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-106",
+        "name":  "Taupe Suede Raffia Inset Loafer (STYLE 106)",
+        "image":  "8652fd78-f8da-4084-a884-c74f2d086951.JPG",
+        "images":  [
+                       "8652fd78-f8da-4084-a884-c74f2d086951.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-107",
+        "name":  "Navy Suede Tassel Loafer (STYLE 107)",
+        "image":  "87255d68-1523-464b-9233-38291d61945d.JPG",
+        "images":  [
+                       "87255d68-1523-464b-9233-38291d61945d.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-108",
+        "name":  "Tan Croco Beaded Boat Shoe (STYLE 108)",
+        "image":  "8bc47236-442c-4bf2-a879-24b75b0b9579.JPG",
+        "images":  [
+                       "8bc47236-442c-4bf2-a879-24b75b0b9579.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-109",
+        "name":  "Taupe Suede Double-Stripe Sneaker (STYLE 109)",
+        "image":  "8fb8e060-08f5-4fe2-8df3-a7d7cc6e20c0.JPG",
+        "images":  [
+                       "8fb8e060-08f5-4fe2-8df3-a7d7cc6e20c0.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-110",
+        "name":  "Dark Brown Python Panel Sneaker (STYLE 110)",
+        "image":  "9321b8b3-2674-460a-916f-80dabec3fdf2.JPG",
+        "images":  [
+                       "9321b8b3-2674-460a-916f-80dabec3fdf2.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-111",
+        "name":  "Brown Cream Suede Bow Sneaker (STYLE 111)",
+        "image":  "936d0be7-747a-4879-a76f-6e5e1e3b7872.JPG",
+        "images":  [
+                       "936d0be7-747a-4879-a76f-6e5e1e3b7872.JPG",
+                       "a4b5a72a-c7a9-4ef8-8e5c-b4a4de56e470.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-112",
+        "name":  "Tan Perforated Suede Mary Jane (STYLE 112)",
+        "image":  "96e40dae-b86d-40da-8a71-43abbbddcdb2.JPG",
+        "images":  [
+                       "96e40dae-b86d-40da-8a71-43abbbddcdb2.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-113",
+        "name":  "Brown Suede Beaded Boat Shoe (STYLE 113)",
+        "image":  "9c1215c4-8198-4505-b0ad-252831ac04e8.JPG",
+        "images":  [
+                       "9c1215c4-8198-4505-b0ad-252831ac04e8.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-114",
+        "name":  "Gray Suede Silver-Bead Boat Shoe (STYLE 114)",
+        "image":  "9d66036b-b426-4d0b-95d0-69f35829ff21.JPG",
+        "images":  [
+                       "9d66036b-b426-4d0b-95d0-69f35829ff21.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-115",
+        "name":  "Taupe Python-Accent Sneaker (STYLE 115)",
+        "image":  "a8f0a1d1-0036-46a3-b4e3-b5ef175a6f56.JPG",
+        "images":  [
+                       "a8f0a1d1-0036-46a3-b4e3-b5ef175a6f56.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-116",
+        "name":  "Mustard Yellow Perforated Mary Jane (STYLE 116)",
+        "image":  "a9d29c89-a23a-486e-9bed-9eaf1e7e74f1.JPG",
+        "images":  [
+                       "a9d29c89-a23a-486e-9bed-9eaf1e7e74f1.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-117",
+        "name":  "Black White Python Sneaker (STYLE 117)",
+        "image":  "ad4187b2-c87e-4b4e-849b-fe46e534c1f7.JPG",
+        "images":  [
+                       "ad4187b2-c87e-4b4e-849b-fe46e534c1f7.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-118",
+        "name":  "Brown Croco Suede Mary Jane (STYLE 118)",
+        "image":  "b29be0b0-139a-4830-a67b-5b1cecde1049.JPG",
+        "images":  [
+                       "b29be0b0-139a-4830-a67b-5b1cecde1049.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-119",
+        "name":  "Black Patent Croco Mary Jane (STYLE 119)",
+        "image":  "b4a51640-c856-40c6-8e2e-db286eefe71b.JPG",
+        "images":  [
+                       "b4a51640-c856-40c6-8e2e-db286eefe71b.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-120",
+        "name":  "White Perforated Leather Sneaker (STYLE 120)",
+        "image":  "b87ad036-3b4a-47ba-bedd-3953b6e57f08.JPG",
+        "images":  [
+                       "b87ad036-3b4a-47ba-bedd-3953b6e57f08.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-121",
+        "name":  "Green Cream Orange-Collar Sneaker (STYLE 121)",
+        "image":  "b9ab38ce-7c77-4601-aabf-6361f6cdee55.JPG",
+        "images":  [
+                       "b9ab38ce-7c77-4601-aabf-6361f6cdee55.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-122",
+        "name":  "Dark Brown Croco Mary Jane (STYLE 122)",
+        "image":  "b9ee1fb4-c75e-4cf4-af50-025eb19d5deb.JPG",
+        "images":  [
+                       "b9ee1fb4-c75e-4cf4-af50-025eb19d5deb.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-123",
+        "name":  "Cobalt Blue Leather Mesh Sneaker (STYLE 123)",
+        "image":  "bb0162fa-68a9-4e72-a012-615e4018bf90.JPG",
+        "images":  [
+                       "bb0162fa-68a9-4e72-a012-615e4018bf90.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-124",
+        "name":  "Tan Suede Mesh Runner Sneaker (STYLE 124)",
+        "image":  "ccccc8d3-8a0a-4184-bad6-1d0301cf7110.JPG",
+        "images":  [
+                       "ccccc8d3-8a0a-4184-bad6-1d0301cf7110.JPG",
+                       "d1718d42-8f5d-4e57-96c7-abf90d147c69.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-125",
+        "name":  "Dark Brown Croco Loafer with Gold Hardware (STYLE 125)",
+        "image":  "cd39fdaa-2b0d-4144-b5e2-8c9d1d9ccc14.JPG",
+        "images":  [
+                       "cd39fdaa-2b0d-4144-b5e2-8c9d1d9ccc14.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-126",
+        "name":  "Red Suede Raffia Woven Mule (STYLE 126)",
+        "image":  "d35edd27-2aa9-4067-b35d-5796a8b4f773.JPG",
+        "images":  [
+                       "d35edd27-2aa9-4067-b35d-5796a8b4f773.JPG",
+                       "f9b5e37d-1e41-4630-a78a-e39333811eea.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-127",
+        "name":  "Dark Brown Python Accent Sneaker (STYLE 127)",
+        "image":  "d9fae857-1234-4196-81bb-770fe3b1d431.JPG",
+        "images":  [
+                       "d9fae857-1234-4196-81bb-770fe3b1d431.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-128",
+        "name":  "Tan Pebbled Leather Slip-On Loafer (STYLE 128)",
+        "image":  "e0894aaf-d315-4360-8f15-ae6e8c674c75.JPG",
+        "images":  [
+                       "e0894aaf-d315-4360-8f15-ae6e8c674c75.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-129",
+        "name":  "Brown Suede T-Strap Loafer (STYLE 129)",
+        "image":  "e7faef09-d990-4162-8d97-7accd903490c.JPG",
+        "images":  [
+                       "e7faef09-d990-4162-8d97-7accd903490c.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-130",
+        "name":  "Mustard Pebbled Leather Driving Loafer (STYLE 130)",
+        "image":  "f116a2c5-16c4-4462-becf-c0216b520e33.JPG",
+        "images":  [
+                       "f116a2c5-16c4-4462-becf-c0216b520e33.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-131",
+        "name":  "Tan Leather Mary Jane Flat (STYLE 131)",
+        "image":  "f539c60e-3af2-4791-8c5f-f49dceb450ae.JPG",
+        "images":  [
+                       "f539c60e-3af2-4791-8c5f-f49dceb450ae.JPG"
+                   ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
     }
 ]
