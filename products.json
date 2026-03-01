@@ -1,7 +1,7 @@
 ﻿[
     {
         "id":  "shoe-1",
-        "name":  "Istanbul Woven Sneaker - Black",
+        "name":  "Istanbul Woven Sneaker - Black (STYLE 1)",
         "image":  "0171c227-121e-4afc-ae90-e25b049c8db1.JPG",
         "images":  [
                        "0171c227-121e-4afc-ae90-e25b049c8db1.JPG"
@@ -18,7 +18,7 @@
     },
     {
         "id":  "shoe-2",
-        "name":  "Milano Mesh Runner - Taupe",
+        "name":  "Milano Mesh Runner - Taupe (STYLE 2)",
         "image":  "0202fbbf-aaea-4d23-b97d-3a7f202c7645.JPG",
         "images":  [
                        "0202fbbf-aaea-4d23-b97d-3a7f202c7645.JPG"
@@ -35,7 +35,7 @@
     },
     {
         "id":  "shoe-3",
-        "name":  "Ankara Woven Sneaker - Burgundy",
+        "name":  "Ankara Woven Sneaker - Burgundy (STYLE 3)",
         "image":  "03909447-0428-42fc-88e2-99eaa555e0e3.JPG",
         "images":  [
                        "03909447-0428-42fc-88e2-99eaa555e0e3.JPG"
@@ -52,7 +52,7 @@
     },
     {
         "id":  "shoe-4",
-        "name":  "Bosphorus Raffia Mule - Black \u0026 Cream",
+        "name":  "Bosphorus Raffia Mule - Black \u0026 Cream (STYLE 4)",
         "image":  "04ca4c17-9672-4dcb-ae09-0f237d0ffeeb.JPG",
         "images":  [
                        "04ca4c17-9672-4dcb-ae09-0f237d0ffeeb.JPG"
@@ -69,7 +69,7 @@
     },
     {
         "id":  "shoe-5",
-        "name":  "Perforated Monk Strap - Brown Suede",
+        "name":  "Perforated Monk Strap - Brown Suede (STYLE 5)",
         "image":  "08e15fee-017e-439a-8c55-aa42dadad823.JPG",
         "images":  [
                        "08e15fee-017e-439a-8c55-aa42dadad823.JPG"
@@ -86,7 +86,7 @@
     },
     {
         "id":  "shoe-6",
-        "name":  "Croco Mary Jane - Black Suede",
+        "name":  "Croco Mary Jane - Black Suede (STYLE 6)",
         "image":  "098e0c0d-53dd-42c6-a056-a20c5d19bc99.JPG",
         "images":  [
                        "098e0c0d-53dd-42c6-a056-a20c5d19bc99.JPG"
@@ -103,7 +103,7 @@
     },
     {
         "id":  "shoe-7",
-        "name":  "Pebbled Leather Loafer - Taupe",
+        "name":  "Pebbled Leather Loafer - Taupe (STYLE 7)",
         "image":  "0c46f2c5-54ae-4f4e-be4a-28c02098fd6b.JPG",
         "images":  [
                        "0c46f2c5-54ae-4f4e-be4a-28c02098fd6b.JPG"
@@ -120,7 +120,7 @@
     },
     {
         "id":  "shoe-8",
-        "name":  "Croco Suede Loafer - Black",
+        "name":  "Croco Suede Loafer - Black (STYLE 8)",
         "image":  "0d68bda3-804b-4071-a75d-d8f5e0ee3ab6.JPG",
         "images":  [
                        "0d68bda3-804b-4071-a75d-d8f5e0ee3ab6.JPG"
@@ -137,7 +137,7 @@
     },
     {
         "id":  "shoe-9",
-        "name":  "Woven Panel Sneaker - White \u0026 Silver",
+        "name":  "Woven Panel Sneaker - White \u0026 Silver (STYLE 9)",
         "image":  "100fa10f-2ea3-43f8-9409-cd4683c58562.JPG",
         "images":  [
                        "100fa10f-2ea3-43f8-9409-cd4683c58562.JPG"
@@ -154,7 +154,7 @@
     },
     {
         "id":  "shoe-10",
-        "name":  "Tassel Penny Loafer - Tan",
+        "name":  "Tassel Penny Loafer - Tan (STYLE 10)",
         "image":  "12464eff-495d-46b8-b53b-a4e5c405d741.JPG",
         "images":  [
                        "12464eff-495d-46b8-b53b-a4e5c405d741.JPG"
@@ -171,7 +171,7 @@
     },
     {
         "id":  "shoe-11",
-        "name":  "Beaded Lace Boat Shoe - Brown Suede",
+        "name":  "Beaded Lace Boat Shoe - Brown Suede (STYLE 11)",
         "image":  "13a6bd7c-261e-43ac-a513-dae92d9bf285.JPG",
         "images":  [
                        "13a6bd7c-261e-43ac-a513-dae92d9bf285.JPG"
@@ -188,7 +188,7 @@
     },
     {
         "id":  "shoe-12",
-        "name":  "Woven Leather Sneaker - Brown \u0026 Tan",
+        "name":  "Woven Leather Sneaker - Brown \u0026 Tan (STYLE 12)",
         "image":  "14985b64-b8c6-445f-8d01-36fccddfba96.JPG",
         "images":  [
                        "14985b64-b8c6-445f-8d01-36fccddfba96.JPG"
@@ -205,7 +205,7 @@
     },
     {
         "id":  "shoe-13",
-        "name":  "Croco Cap-Toe Flat - Beige",
+        "name":  "Croco Cap-Toe Flat - Beige (STYLE 13)",
         "image":  "14cacbd2-c885-4a5c-a132-c3e538d5496b.JPG",
         "images":  [
                        "14cacbd2-c885-4a5c-a132-c3e538d5496b.JPG"
@@ -222,7 +222,7 @@
     },
     {
         "id":  "shoe-14",
-        "name":  "Canvas Slip-On Sneaker - Navy \u0026 White",
+        "name":  "Canvas Slip-On Sneaker - Navy \u0026 White (STYLE 14)",
         "image":  "19e2f628-62ca-4ee6-9763-46959e9e9fbd.JPG",
         "images":  [
                        "19e2f628-62ca-4ee6-9763-46959e9e9fbd.JPG"
@@ -239,7 +239,7 @@
     },
     {
         "id":  "shoe-15",
-        "name":  "Suede Mary Jane - Caramel Brown",
+        "name":  "Suede Mary Jane - Caramel Brown (STYLE 15)",
         "image":  "19efd807-323d-4080-9b8e-d465bd3f3699.JPG",
         "images":  [
                        "19efd807-323d-4080-9b8e-d465bd3f3699.JPG"
@@ -256,7 +256,7 @@
     },
     {
         "id":  "shoe-16",
-        "name":  "Woven Mule - Black \u0026 Ivory",
+        "name":  "Woven Mule - Black \u0026 Ivory (STYLE 16)",
         "image":  "1f43dbea-82d9-4dce-9ff3-c3624d17264e.JPG",
         "images":  [
                        "1f43dbea-82d9-4dce-9ff3-c3624d17264e.JPG"
@@ -273,7 +273,7 @@
     },
     {
         "id":  "shoe-17",
-        "name":  "Metallic Accent Loafer - Mustard",
+        "name":  "Metallic Accent Loafer - Mustard (STYLE 17)",
         "image":  "21dccd1b-76c2-4a38-8675-19e78b3b34b1.JPG",
         "images":  [
                        "21dccd1b-76c2-4a38-8675-19e78b3b34b1.JPG"
@@ -290,7 +290,7 @@
     },
     {
         "id":  "shoe-18",
-        "name":  "Open-Weave Sneaker - Green \u0026 Orange",
+        "name":  "Open-Weave Sneaker - Green \u0026 Orange (STYLE 18)",
         "image":  "71cb2a99-68ce-4d6c-a2dd-9ad5bf22d44a.JPG",
         "images":  [
                        "71cb2a99-68ce-4d6c-a2dd-9ad5bf22d44a.JPG"
@@ -307,7 +307,7 @@
     },
     {
         "id":  "shoe-19",
-        "name":  "Smooth Leather Loafer - Black",
+        "name":  "Smooth Leather Loafer - Black (STYLE 19)",
         "image":  "25f06c32-1ca4-4b1f-aaad-d179b2df496a.JPG",
         "images":  [
                        "25f06c32-1ca4-4b1f-aaad-d179b2df496a.JPG"
@@ -324,7 +324,7 @@
     },
     {
         "id":  "shoe-20",
-        "name":  "Buckle Strap Flat - Beige Croc",
+        "name":  "Buckle Strap Flat - Beige Croc (STYLE 20)",
         "image":  "2d572ce9-cab4-473b-8088-fc3a7ddc1c33.JPG",
         "images":  [
                        "2d572ce9-cab4-473b-8088-fc3a7ddc1c33.JPG"
@@ -341,7 +341,7 @@
     },
     {
         "id":  "shoe-21",
-        "name":  "Suede Penny Loafer - Navy",
+        "name":  "Suede Penny Loafer - Navy (STYLE 21)",
         "image":  "31d82e62-9d20-47c7-b894-895835ba8535.JPG",
         "images":  [
                        "31d82e62-9d20-47c7-b894-895835ba8535.JPG"
@@ -358,7 +358,7 @@
     },
     {
         "id":  "shoe-22",
-        "name":  "Perforated Leather Sneaker - White",
+        "name":  "Perforated Leather Sneaker - White (STYLE 22)",
         "image":  "3ae77fe1-3318-490a-8842-151884952c81.JPG",
         "images":  [
                        "3ae77fe1-3318-490a-8842-151884952c81.JPG"
@@ -375,7 +375,7 @@
     },
     {
         "id":  "shoe-23",
-        "name":  "Tassel Loafer - Cognac",
+        "name":  "Tassel Loafer - Cognac (STYLE 23)",
         "image":  "3b2b1072-8127-40d4-a98c-a472cf8e787b.JPG",
         "images":  [
                        "3b2b1072-8127-40d4-a98c-a472cf8e787b.JPG"
@@ -392,7 +392,7 @@
     },
     {
         "id":  "shoe-24",
-        "name":  "Croco Embossed Flat - Brown",
+        "name":  "Croco Embossed Flat - Brown (STYLE 24)",
         "image":  "3efecc11-619a-46e4-951c-c594e97337bb.JPG",
         "images":  [
                        "3efecc11-619a-46e4-951c-c594e97337bb.JPG"
@@ -409,7 +409,7 @@
     },
     {
         "id":  "shoe-25",
-        "name":  "Woven Panel Mule - Cream",
+        "name":  "Woven Panel Mule - Cream (STYLE 25)",
         "image":  "43023534-c400-4e9d-9f60-6c86aa8c0c23.JPG",
         "images":  [
                        "43023534-c400-4e9d-9f60-6c86aa8c0c23.JPG"
@@ -426,7 +426,7 @@
     },
     {
         "id":  "shoe-26",
-        "name":  "Suede Boat Shoe - Gray",
+        "name":  "Suede Boat Shoe - Gray (STYLE 26)",
         "image":  "43a2c9a5-187c-4f1c-9749-6e0100da44cf.JPG",
         "images":  [
                        "43a2c9a5-187c-4f1c-9749-6e0100da44cf.JPG"
@@ -443,7 +443,7 @@
     },
     {
         "id":  "shoe-27",
-        "name":  "Leather Loafer - Olive Green",
+        "name":  "Leather Loafer - Olive Green (STYLE 27)",
         "image":  "44633217-22d8-429f-b92f-086d94f8e1ea.JPG",
         "images":  [
                        "44633217-22d8-429f-b92f-086d94f8e1ea.JPG"
@@ -460,7 +460,7 @@
     },
     {
         "id":  "shoe-28",
-        "name":  "Mary Jane Flat - Black Leather",
+        "name":  "Mary Jane Flat - Black Leather (STYLE 28)",
         "image":  "45d1ac2a-072f-4e82-952c-fa4112e68f5a.JPG",
         "images":  [
                        "45d1ac2a-072f-4e82-952c-fa4112e68f5a.JPG"
@@ -477,7 +477,7 @@
     },
     {
         "id":  "shoe-29",
-        "name":  "Woven Sneaker - Burgundy \u0026 Cream",
+        "name":  "Woven Sneaker - Burgundy \u0026 Cream (STYLE 29)",
         "image":  "4641ebc4-43fb-4059-a096-95415b45e2d4.JPG",
         "images":  [
                        "4641ebc4-43fb-4059-a096-95415b45e2d4.JPG"
@@ -494,7 +494,7 @@
     },
     {
         "id":  "shoe-30",
-        "name":  "Suede Slip-On - Blush Pink",
+        "name":  "Suede Slip-On - Blush Pink (STYLE 30)",
         "image":  "4aad566e-d3f5-468f-875f-a878a4ec419a.JPG",
         "images":  [
                        "4aad566e-d3f5-468f-875f-a878a4ec419a.JPG"
@@ -511,7 +511,7 @@
     },
     {
         "id":  "shoe-31",
-        "name":  "Croco Mary Jane - Tan",
+        "name":  "Croco Mary Jane - Tan (STYLE 31)",
         "image":  "4d7c7a83-a82d-4f49-828a-485b248e0467.JPG",
         "images":  [
                        "4d7c7a83-a82d-4f49-828a-485b248e0467.JPG"
@@ -528,7 +528,7 @@
     },
     {
         "id":  "shoe-32",
-        "name":  "Embossed Loafer - Dark Brown",
+        "name":  "Embossed Loafer - Dark Brown (STYLE 32)",
         "image":  "4f25542e-f6ae-440c-993a-e9dd2c46e18f.JPG",
         "images":  [
                        "4f25542e-f6ae-440c-993a-e9dd2c46e18f.JPG"
@@ -545,7 +545,7 @@
     },
     {
         "id":  "shoe-33",
-        "name":  "Woven Leather Mule - Camel",
+        "name":  "Woven Leather Mule - Camel (STYLE 33)",
         "image":  "506026b2-f40c-4604-a8f7-2fafef9fd5b4.JPG",
         "images":  [
                        "506026b2-f40c-4604-a8f7-2fafef9fd5b4.JPG"
@@ -562,7 +562,7 @@
     },
     {
         "id":  "shoe-34",
-        "name":  "Perforated Oxford - White \u0026 Tan",
+        "name":  "Perforated Oxford - White \u0026 Tan (STYLE 34)",
         "image":  "53a6a977-2096-4b5c-9113-aecd9136998f.JPG",
         "images":  [
                        "53a6a977-2096-4b5c-9113-aecd9136998f.JPG"
@@ -579,7 +579,7 @@
     },
     {
         "id":  "shoe-35",
-        "name":  "Suede Mary Jane - Black",
+        "name":  "Suede Mary Jane - Black (STYLE 35)",
         "image":  "5b521e5a-58bd-4631-879b-4b55160503a1.JPG",
         "images":  [
                        "5b521e5a-58bd-4631-879b-4b55160503a1.JPG"
@@ -596,7 +596,7 @@
     },
     {
         "id":  "shoe-36",
-        "name":  "Metallic Woven Sneaker - Gold \u0026 Black",
+        "name":  "Metallic Woven Sneaker - Gold \u0026 Black (STYLE 36)",
         "image":  "5d50abd0-0641-4c5e-b34d-1e3442d3b3b7.JPG",
         "images":  [
                        "5d50abd0-0641-4c5e-b34d-1e3442d3b3b7.JPG"
@@ -613,7 +613,7 @@
     },
     {
         "id":  "shoe-37",
-        "name":  "Tassel Loafer - Bordeaux",
+        "name":  "Tassel Loafer - Bordeaux (STYLE 37)",
         "image":  "605de35a-202c-4b3c-8afe-add6ddb6ad6c.JPG",
         "images":  [
                        "605de35a-202c-4b3c-8afe-add6ddb6ad6c.JPG"
@@ -630,7 +630,7 @@
     },
     {
         "id":  "shoe-38",
-        "name":  "Smooth Leather Flat - Nude",
+        "name":  "Smooth Leather Flat - Nude (STYLE 38)",
         "image":  "65c23ef2-d902-4ada-b683-67795f4205f4.JPG",
         "images":  [
                        "65c23ef2-d902-4ada-b683-67795f4205f4.JPG"
@@ -647,7 +647,7 @@
     },
     {
         "id":  "shoe-39",
-        "name":  "Croco Cap-Toe Loafer - Black",
+        "name":  "Croco Cap-Toe Loafer - Black (STYLE 39)",
         "image":  "6919595d-3ef3-4ec0-8264-4f5a2f82d5c3.JPG",
         "images":  [
                        "6919595d-3ef3-4ec0-8264-4f5a2f82d5c3.JPG"
@@ -664,7 +664,7 @@
     },
     {
         "id":  "shoe-40",
-        "name":  "Woven Panel Sneaker - Tan \u0026 Ivory",
+        "name":  "Woven Panel Sneaker - Tan \u0026 Ivory (STYLE 40)",
         "image":  "6ca58592-5d18-4232-8eca-7fd4b9c29030.JPG",
         "images":  [
                        "6ca58592-5d18-4232-8eca-7fd4b9c29030.JPG"
@@ -681,7 +681,7 @@
     },
     {
         "id":  "shoe-41",
-        "name":  "Suede Boat Shoe - Chocolate",
+        "name":  "Suede Boat Shoe - Chocolate (STYLE 41)",
         "image":  "6dff0a72-03f6-4a57-9287-678304855c34.JPG",
         "images":  [
                        "6dff0a72-03f6-4a57-9287-678304855c34.JPG"
@@ -698,7 +698,7 @@
     },
     {
         "id":  "shoe-42",
-        "name":  "Buckle Mary Jane - Cognac Suede",
+        "name":  "Buckle Mary Jane - Cognac Suede (STYLE 42)",
         "image":  "70abb2c7-ecbd-4776-afff-e957886d1854.JPG",
         "images":  [
                        "70abb2c7-ecbd-4776-afff-e957886d1854.JPG"
@@ -715,7 +715,7 @@
     },
     {
         "id":  "shoe-43",
-        "name":  "Perforated Slip-On - Beige",
+        "name":  "Perforated Slip-On - Beige (STYLE 43)",
         "image":  "71e947e3-0d58-492e-b4d5-21a5617ca9f0.JPG",
         "images":  [
                        "71e947e3-0d58-492e-b4d5-21a5617ca9f0.JPG"
@@ -732,7 +732,7 @@
     },
     {
         "id":  "shoe-44",
-        "name":  "Leather Mule - Stone Gray",
+        "name":  "Leather Mule - Stone Gray (STYLE 44)",
         "image":  "734dcfdf-89f5-4f5a-a872-b0f36c1c8b06.JPG",
         "images":  [
                        "734dcfdf-89f5-4f5a-a872-b0f36c1c8b06.JPG"
@@ -749,7 +749,7 @@
     },
     {
         "id":  "shoe-45",
-        "name":  "Woven Loafer - Black \u0026 Gold",
+        "name":  "Woven Loafer - Black \u0026 Gold (STYLE 45)",
         "image":  "76716c9c-7742-4e0c-81ae-ce93aab9ee18.JPG",
         "images":  [
                        "76716c9c-7742-4e0c-81ae-ce93aab9ee18.JPG"
@@ -766,7 +766,7 @@
     },
     {
         "id":  "shoe-46",
-        "name":  "Croco Embossed Sneaker - Cream",
+        "name":  "Croco Embossed Sneaker - Cream (STYLE 46)",
         "image":  "7ca6abad-7e3b-4bbf-a251-ca3562f963ca.JPG",
         "images":  [
                        "7ca6abad-7e3b-4bbf-a251-ca3562f963ca.JPG"
@@ -783,7 +783,7 @@
     },
     {
         "id":  "shoe-47",
-        "name":  "Suede Cap-Toe Flat - Taupe",
+        "name":  "Suede Cap-Toe Flat - Taupe (STYLE 47)",
         "image":  "7f4bb7fd-1728-4163-b89c-1ab520bbcdb9.JPG",
         "images":  [
                        "7f4bb7fd-1728-4163-b89c-1ab520bbcdb9.JPG"
@@ -800,7 +800,7 @@
     },
     {
         "id":  "shoe-48",
-        "name":  "Penny Loafer - Chestnut",
+        "name":  "Penny Loafer - Chestnut (STYLE 48)",
         "image":  "7fb5c8e9-09ff-45b3-8d6e-bc5842bb0d00.JPG",
         "images":  [
                        "7fb5c8e9-09ff-45b3-8d6e-bc5842bb0d00.JPG"
@@ -817,7 +817,7 @@
     },
     {
         "id":  "shoe-49",
-        "name":  "Woven Sneaker - Ivory \u0026 Caramel",
+        "name":  "Woven Sneaker - Ivory \u0026 Caramel (STYLE 49)",
         "image":  "81ea8e62-9978-496c-b285-c8d3e422e565.JPG",
         "images":  [
                        "81ea8e62-9978-496c-b285-c8d3e422e565.JPG"
@@ -834,7 +834,7 @@
     },
     {
         "id":  "shoe-50",
-        "name":  "Leather Monk Strap - Deep Brown",
+        "name":  "Leather Monk Strap - Deep Brown (STYLE 50)",
         "image":  "848e0ffe-1d4d-49e2-adfb-e3a9a2ef1c03.JPG",
         "images":  [
                        "848e0ffe-1d4d-49e2-adfb-e3a9a2ef1c03.JPG"
@@ -851,7 +851,7 @@
     },
     {
         "id":  "shoe-51",
-        "name":  "Croco Penny Loafer - Amber Suede",
+        "name":  "Croco Penny Loafer - Amber Suede (STYLE 51)",
         "image":  "89a8218f-90e8-477f-bcef-878779d6c32f.JPG",
         "images":  [
                        "89a8218f-90e8-477f-bcef-878779d6c32f.JPG"
@@ -868,7 +868,7 @@
     },
     {
         "id":  "shoe-52",
-        "name":  "Croco Mary Jane Sneaker - Black Suede",
+        "name":  "Croco Mary Jane Sneaker - Black Suede (STYLE 52)",
         "image":  "8dd964b6-bbd7-4d40-bd8b-155ee5fc07c8.JPG",
         "images":  [
                        "8dd964b6-bbd7-4d40-bd8b-155ee5fc07c8.JPG"
@@ -885,7 +885,7 @@
     },
     {
         "id":  "shoe-53",
-        "name":  "Bow-Lace Suede Sneaker - Red \u0026 White",
+        "name":  "Bow-Lace Suede Sneaker - Red \u0026 White (STYLE 53)",
         "image":  "95559bf1-2ad7-478d-a65b-4a4d6e032761.JPG",
         "images":  [
                        "95559bf1-2ad7-478d-a65b-4a4d6e032761.JPG"
@@ -902,7 +902,7 @@
     },
     {
         "id":  "shoe-54",
-        "name":  "Studded Fringe Loafer - Tan Suede",
+        "name":  "Studded Fringe Loafer - Tan Suede (STYLE 54)",
         "image":  "9a6e7512-a95e-41da-a1cc-66f90ed9300e.JPG",
         "images":  [
                        "9a6e7512-a95e-41da-a1cc-66f90ed9300e.JPG",
@@ -920,7 +920,7 @@
     },
     {
         "id":  "shoe-55",
-        "name":  "Patent Tassel Mary Jane - Sage",
+        "name":  "Patent Tassel Mary Jane - Sage (STYLE 55)",
         "image":  "a3759775-331f-48e5-93ee-84d5491023e9.JPG",
         "images":  [
                        "a3759775-331f-48e5-93ee-84d5491023e9.JPG"
@@ -937,7 +937,7 @@
     },
     {
         "id":  "shoe-56",
-        "name":  "V-Stripe Leather Sneaker - Dark Brown",
+        "name":  "V-Stripe Leather Sneaker - Dark Brown (STYLE 56)",
         "image":  "a546bf08-4011-4493-9b6f-70d8e8003e02.JPG",
         "images":  [
                        "a546bf08-4011-4493-9b6f-70d8e8003e02.JPG"
@@ -954,7 +954,7 @@
     },
     {
         "id":  "shoe-57",
-        "name":  "Lace-Up Leather Sneaker - White \u0026 Tan",
+        "name":  "Lace-Up Leather Sneaker - White \u0026 Tan (STYLE 57)",
         "image":  "a55aad54-cebe-49a1-8d20-7afa94390a71.JPG",
         "images":  [
                        "a55aad54-cebe-49a1-8d20-7afa94390a71.JPG"
@@ -971,7 +971,7 @@
     },
     {
         "id":  "shoe-58",
-        "name":  "Croco Mary Jane Sneaker - Black Patent",
+        "name":  "Croco Mary Jane Sneaker - Black Patent (STYLE 58)",
         "image":  "a81110df-325a-4936-a1a6-9f72030f76c8.JPG",
         "images":  [
                        "a81110df-325a-4936-a1a6-9f72030f76c8.JPG"
@@ -988,7 +988,7 @@
     },
     {
         "id":  "shoe-59",
-        "name":  "Moccasin Penny Loafer - Camel Suede",
+        "name":  "Moccasin Penny Loafer - Camel Suede (STYLE 59)",
         "image":  "a85461d3-156b-43d4-aa37-24fa5dbc1dab.JPG",
         "images":  [
                        "a85461d3-156b-43d4-aa37-24fa5dbc1dab.JPG"
@@ -1005,7 +1005,7 @@
     },
     {
         "id":  "shoe-60",
-        "name":  "Mesh Mary Jane - Mustard",
+        "name":  "Mesh Mary Jane - Mustard (STYLE 60)",
         "image":  "a9c53a6e-3089-4920-b4cc-92b55b2575f0.JPG",
         "images":  [
                        "a9c53a6e-3089-4920-b4cc-92b55b2575f0.JPG",
@@ -1023,7 +1023,7 @@
     },
     {
         "id":  "shoe-61",
-        "name":  "Moccasin Penny Loafer - Sand Suede",
+        "name":  "Moccasin Penny Loafer - Sand Suede (STYLE 61)",
         "image":  "af779c34-bc20-4e08-b2c3-ab3998b70c60.JPG",
         "images":  [
                        "af779c34-bc20-4e08-b2c3-ab3998b70c60.JPG"
@@ -1040,7 +1040,7 @@
     },
     {
         "id":  "shoe-62",
-        "name":  "T-Bar Buckle Sneaker - Chocolate Suede",
+        "name":  "T-Bar Buckle Sneaker - Chocolate Suede (STYLE 62)",
         "image":  "afa2de2b-be45-4b8b-a0cd-b21bf8a26bd0.JPG",
         "images":  [
                        "afa2de2b-be45-4b8b-a0cd-b21bf8a26bd0.JPG"
@@ -1057,7 +1057,7 @@
     },
     {
         "id":  "shoe-63",
-        "name":  "Moccasin Loafer - Cognac Suede",
+        "name":  "Moccasin Loafer - Cognac Suede (STYLE 63)",
         "image":  "b0f3a59c-689d-47d8-b5cb-5fbd8cf53cf3.JPG",
         "images":  [
                        "b0f3a59c-689d-47d8-b5cb-5fbd8cf53cf3.JPG"
@@ -1074,7 +1074,7 @@
     },
     {
         "id":  "shoe-64",
-        "name":  "Woven Leather Sneaker - Black",
+        "name":  "Woven Leather Sneaker - Black (STYLE 64)",
         "image":  "b162e7cf-aad9-454d-a178-92179250e016.JPG",
         "images":  [
                        "b162e7cf-aad9-454d-a178-92179250e016.JPG",
@@ -1092,7 +1092,7 @@
     },
     {
         "id":  "shoe-65",
-        "name":  "Raffia Panel Loafer - Cognac Suede",
+        "name":  "Raffia Panel Loafer - Cognac Suede (STYLE 65)",
         "image":  "b240f127-1691-4a33-b7ee-5898ed70e439.JPG",
         "images":  [
                        "b240f127-1691-4a33-b7ee-5898ed70e439.JPG"
@@ -1109,7 +1109,7 @@
     },
     {
         "id":  "shoe-66",
-        "name":  "Suede Lace Boat Shoe - Tan",
+        "name":  "Suede Lace Boat Shoe - Tan (STYLE 66)",
         "image":  "b33f2e47-f998-4187-a08b-40e297e030d7.JPG",
         "images":  [
                        "b33f2e47-f998-4187-a08b-40e297e030d7.JPG"
@@ -1126,7 +1126,7 @@
     },
     {
         "id":  "shoe-67",
-        "name":  "V-Stripe Suede Runner - Taupe",
+        "name":  "V-Stripe Suede Runner - Taupe (STYLE 67)",
         "image":  "b509462c-8e2e-45dd-8ad5-c5b842802024.JPG",
         "images":  [
                        "b509462c-8e2e-45dd-8ad5-c5b842802024.JPG",
@@ -1145,7 +1145,7 @@
     },
     {
         "id":  "shoe-68",
-        "name":  "Pebbled Leather Loafer - Cream",
+        "name":  "Pebbled Leather Loafer - Cream (STYLE 68)",
         "image":  "b86c315c-82e9-40ef-a966-7332db453ab8.JPG",
         "images":  [
                        "b86c315c-82e9-40ef-a966-7332db453ab8.JPG"
@@ -1162,7 +1162,7 @@
     },
     {
         "id":  "shoe-69",
-        "name":  "Leather Mary Jane - Cognac",
+        "name":  "Leather Mary Jane - Cognac (STYLE 69)",
         "image":  "bbc24a6f-ca17-4eab-859b-3924dadd5cd6.JPG",
         "images":  [
                        "bbc24a6f-ca17-4eab-859b-3924dadd5cd6.JPG"
@@ -1179,7 +1179,7 @@
     },
     {
         "id":  "shoe-70",
-        "name":  "Beaded Boat Shoe - Sand Suede",
+        "name":  "Beaded Boat Shoe - Sand Suede (STYLE 70)",
         "image":  "bfe17e73-0912-4779-bcec-1a9eeb8e1047.JPG",
         "images":  [
                        "bfe17e73-0912-4779-bcec-1a9eeb8e1047.JPG"
@@ -1196,7 +1196,7 @@
     },
     {
         "id":  "shoe-71",
-        "name":  "Woven Runner Sneaker - Black",
+        "name":  "Woven Runner Sneaker - Black (STYLE 71)",
         "image":  "c011ac9e-ef44-4c3a-915b-f82d602ef303.JPG",
         "images":  [
                        "c011ac9e-ef44-4c3a-915b-f82d602ef303.JPG"
@@ -1213,7 +1213,7 @@
     },
     {
         "id":  "shoe-72",
-        "name":  "Moccasin Penny Loafer - Espresso",
+        "name":  "Moccasin Penny Loafer - Espresso (STYLE 72)",
         "image":  "c33e8e50-1265-49da-84c4-ec24756793c8.JPG",
         "images":  [
                        "c33e8e50-1265-49da-84c4-ec24756793c8.JPG"
@@ -1230,7 +1230,7 @@
     },
     {
         "id":  "shoe-73",
-        "name":  "Perforated Suede Lace-Up - Black",
+        "name":  "Perforated Suede Lace-Up - Black (STYLE 73)",
         "image":  "c637b7d2-d9b8-43f7-96e0-796385d0cdd4.JPG",
         "images":  [
                        "c637b7d2-d9b8-43f7-96e0-796385d0cdd4.JPG"
@@ -1247,7 +1247,7 @@
     },
     {
         "id":  "shoe-74",
-        "name":  "Beaded Kiltie Loafer - Cognac",
+        "name":  "Beaded Kiltie Loafer - Cognac (STYLE 74)",
         "image":  "ca3448e7-0be2-4c4a-9399-5c20ac7a24e6.JPG",
         "images":  [
                        "ca3448e7-0be2-4c4a-9399-5c20ac7a24e6.JPG"
@@ -1264,7 +1264,7 @@
     },
     {
         "id":  "shoe-75",
-        "name":  "Mesh Leather Sneaker - Royal Blue",
+        "name":  "Mesh Leather Sneaker - Royal Blue (STYLE 75)",
         "image":  "caecfc56-d638-412c-87aa-d31861c9fd6c.JPG",
         "images":  [
                        "caecfc56-d638-412c-87aa-d31861c9fd6c.JPG"
@@ -1281,7 +1281,7 @@
     },
     {
         "id":  "shoe-76",
-        "name":  "Woven Mary Jane Sneaker - Dark Brown",
+        "name":  "Woven Mary Jane Sneaker - Dark Brown (STYLE 76)",
         "image":  "d0b6e24e-9137-497e-80fc-6b575b2094a3.JPG",
         "images":  [
                        "d0b6e24e-9137-497e-80fc-6b575b2094a3.JPG"
@@ -1298,7 +1298,7 @@
     },
     {
         "id":  "shoe-77",
-        "name":  "Python Panel Sneaker - Black",
+        "name":  "Python Panel Sneaker - Black (STYLE 77)",
         "image":  "d2a0a3a1-3570-4a46-b20f-3274afe51b3d.JPG",
         "images":  [
                        "d2a0a3a1-3570-4a46-b20f-3274afe51b3d.JPG"
@@ -1315,7 +1315,7 @@
     },
     {
         "id":  "shoe-78",
-        "name":  "Suede Penny Loafer - Stone",
+        "name":  "Suede Penny Loafer - Stone (STYLE 78)",
         "image":  "d539865b-52bf-4104-bdf7-2556a7d94f82.JPG",
         "images":  [
                        "d539865b-52bf-4104-bdf7-2556a7d94f82.JPG"
@@ -1332,7 +1332,7 @@
     },
     {
         "id":  "shoe-79",
-        "name":  "Woven Leather Loafer - Cognac",
+        "name":  "Woven Leather Loafer - Cognac (STYLE 79)",
         "image":  "d629e765-e959-451e-9bc7-d4a246171e36.JPG",
         "images":  [
                        "d629e765-e959-451e-9bc7-d4a246171e36.JPG"
@@ -1349,7 +1349,7 @@
     },
     {
         "id":  "shoe-80",
-        "name":  "Moccasin Penny Loafer - Espresso Suede",
+        "name":  "Moccasin Penny Loafer - Espresso Suede (STYLE 80)",
         "image":  "d71b51b6-c590-4b4b-85b7-cc94b914a5e4.JPG",
         "images":  [
                        "d71b51b6-c590-4b4b-85b7-cc94b914a5e4.JPG"
@@ -1366,7 +1366,7 @@
     },
     {
         "id":  "shoe-81",
-        "name":  "Classic Moccasin Loafer - Dark Espresso",
+        "name":  "Classic Moccasin Loafer - Dark Espresso (STYLE 81)",
         "image":  "d9993ab9-be68-4f63-99c5-b7f84987db59.JPG",
         "images":  [
                        "d9993ab9-be68-4f63-99c5-b7f84987db59.JPG"
@@ -1383,7 +1383,7 @@
     },
     {
         "id":  "shoe-82",
-        "name":  "Tassel Loafer - Cognac Suede",
+        "name":  "Tassel Loafer - Cognac Suede (STYLE 82)",
         "image":  "dacd183d-bb4e-4470-8502-18e12fc7420a.JPG",
         "images":  [
                        "dacd183d-bb4e-4470-8502-18e12fc7420a.JPG"
@@ -1400,7 +1400,7 @@
     },
     {
         "id":  "shoe-83",
-        "name":  "Moccasin Penny Loafer - Deep Brown",
+        "name":  "Moccasin Penny Loafer - Deep Brown (STYLE 83)",
         "image":  "e5632ce1-57fb-4988-9b4c-c7f8416849e2.JPG",
         "images":  [
                        "e5632ce1-57fb-4988-9b4c-c7f8416849e2.JPG"
@@ -1417,7 +1417,7 @@
     },
     {
         "id":  "shoe-84",
-        "name":  "Patent Tassel Mary Jane - Brown",
+        "name":  "Patent Tassel Mary Jane - Brown (STYLE 84)",
         "image":  "eddc4a6f-c019-4cfc-a315-486b7c7aea0f.JPG",
         "images":  [
                        "eddc4a6f-c019-4cfc-a315-486b7c7aea0f.JPG"
@@ -1434,7 +1434,7 @@
     },
     {
         "id":  "shoe-85",
-        "name":  "Studded Fringe Loafer - Black Suede",
+        "name":  "Studded Fringe Loafer - Black Suede (STYLE 85)",
         "image":  "eddd8734-3d48-4af4-b0cc-9cf12ce5fced.JPG",
         "images":  [
                        "eddd8734-3d48-4af4-b0cc-9cf12ce5fced.JPG"
@@ -1451,7 +1451,7 @@
     },
     {
         "id":  "shoe-86",
-        "name":  "Perforated T-Bar Sneaker - Camel Suede",
+        "name":  "Perforated T-Bar Sneaker - Camel Suede (STYLE 86)",
         "image":  "f3ab9ebb-d47e-4f04-b97a-7e9b71974005.JPG",
         "images":  [
                        "f3ab9ebb-d47e-4f04-b97a-7e9b71974005.JPG"
@@ -1468,7 +1468,7 @@
     },
     {
         "id":  "shoe-87",
-        "name":  "Patent Tassel Mary Jane - Nude",
+        "name":  "Patent Tassel Mary Jane - Nude (STYLE 87)",
         "image":  "fb108bb3-0884-43fa-8d7b-6b63db620291.JPG",
         "images":  [
                        "fb108bb3-0884-43fa-8d7b-6b63db620291.JPG"
@@ -1485,7 +1485,7 @@
     },
     {
         "id":  "shoe-88",
-        "name":  "Mesh Leather Sneaker - White \u0026 Silver",
+        "name":  "Mesh Leather Sneaker - White \u0026 Silver (STYLE 88)",
         "image":  "fd237e0c-478f-4a74-a35c-e502b09c6d2e.JPG",
         "images":  [
                        "fd237e0c-478f-4a74-a35c-e502b09c6d2e.JPG"
@@ -1502,7 +1502,7 @@
     },
     {
         "id":  "shoe-89",
-        "name":  "T-Bar Moccasin Sneaker - Cognac Suede",
+        "name":  "T-Bar Moccasin Sneaker - Cognac Suede (STYLE 89)",
         "image":  "243ed9db-2d86-4af1-8e59-3d25f987df38.JPG",
         "images":  [
                        "243ed9db-2d86-4af1-8e59-3d25f987df38.JPG"
@@ -1519,7 +1519,7 @@
     },
     {
         "id":  "shoe-90",
-        "name":  "Two-Tone Suede Runner - Brown \u0026 Tan",
+        "name":  "Two-Tone Suede Runner - Brown \u0026 Tan (STYLE 90)",
         "image":  "ab845a79-3792-4a6d-884b-12dde3e1f881.JPG",
         "images":  [
                        "ab845a79-3792-4a6d-884b-12dde3e1f881.JPG"
@@ -1536,7 +1536,7 @@
     },
     {
         "id":  "shoe-91",
-        "name":  "Mesh Runner Sneaker - Taupe",
+        "name":  "Mesh Runner Sneaker - Taupe (STYLE 91)",
         "image":  "e274715d-c80d-4671-8591-e415a86d1f50.JPG",
         "images":  [
                        "e274715d-c80d-4671-8591-e415a86d1f50.JPG"
@@ -1553,7 +1553,7 @@
     },
     {
         "id":  "shoe-92",
-        "name":  "Mesh Mary Jane Flat - Emerald Green",
+        "name":  "Mesh Mary Jane Flat - Emerald Green (STYLE 92)",
         "image":  "ee2668bb-2fa1-4c03-bb2b-ffee294f497a.JPG",
         "images":  [
                        "ee2668bb-2fa1-4c03-bb2b-ffee294f497a.JPG"
