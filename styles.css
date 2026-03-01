@@ -103,6 +103,7 @@ header.scrolled {
   flex-shrink: 0;
   overflow: hidden;
   height: 230px;
+  animation: logoFadeIn 1.2s ease forwards;
 }
 
 .logo img {
@@ -112,11 +113,36 @@ header.scrolled {
   margin-right: 0;
 }
 
+@keyframes logoFadeIn {
+  0% {
+    opacity: 0;
+    transform: scale(0.97);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
 .nav-container nav {
   width: 100%;
   margin-left: 0;
-  border-top: 1px solid var(--color-border);
   margin-top: 1rem;
+  position: relative;
+}
+
+.nav-container nav::before {
+  content: '';
+  display: block;
+  height: 1px;
+  background-color: var(--color-border);
+  width: 0%;
+  animation: lineExpand 0.9s ease 0.6s forwards;
+}
+
+@keyframes lineExpand {
+  0% { width: 0%; }
+  100% { width: 100%; }
 }
 
 nav ul {
