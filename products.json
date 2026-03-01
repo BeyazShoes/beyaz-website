@@ -977,8 +977,7 @@
         "name":  "Mesh Mary Jane - Mustard Style# 058",
         "image":  "a9c53a6e-3089-4920-b4cc-92b55b2575f0.JPG",
         "images":  [
-                       "a9c53a6e-3089-4920-b4cc-92b55b2575f0.JPG",
-                       "e8ed6e69-20f9-4472-bc2d-bff5e2a46095.JPG"
+                       "a9c53a6e-3089-4920-b4cc-92b55b2575f0.JPG"
                    ],
         "materials":  "Turkish leather upper and synthetic sole",
         "sizes":  "EU 36-40",
@@ -2063,6 +2062,24 @@
                        "bb25588e-ce06-447a-a5c1-8e5ac6f82592.JPG"
                    ],
         "description":  "Croco-embossed suede penny loafer in black with gold D-ring hardware and a tan rubber sole.",
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-122",
+        "name":  "Raffia Penny Loafer - Taupe Suede Style# 122",
+        "image":  "e8ed6e69-20f9-4472-bc2d-bff5e2a46095.JPG",
+        "images":  [
+                       "e8ed6e69-20f9-4472-bc2d-bff5e2a46095.JPG"
+                   ],
+        "description":  "Taupe suede penny loafer with a gold metallic woven raffia saddle detail and cream rubber sole.",
         "materials":  "Turkish leather upper and synthetic sole",
         "sizes":  "EU 36-40",
         "care":  "Use leather conditioner and soft cloth; avoid moisture",
