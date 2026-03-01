@@ -104,7 +104,7 @@ header.scrolled {
 }
 
 .logo img {
-  height: 280px;
+  height: 360px;
   margin-right: 0;
 }
 
@@ -241,18 +241,21 @@ nav a.active {
 }
 
 .button:hover {
-  background-color: #9a1a1e;
+  background-color: #111;
+  border-color: #111;
   text-decoration: none;
   color: #fff;
 }
 
 .button-outline {
   background-color: transparent;
-  color: var(--color-accent);
+  color: var(--color-text);
+  border-color: var(--color-text);
 }
 
 .button-outline:hover {
-  background-color: var(--color-accent);
+  background-color: #111;
+  border-color: #111;
   color: #fff;
 }
 
@@ -998,7 +1001,7 @@ footer {
 
 @media (max-width: 480px) {
   .logo img {
-    height: 160px;
+    height: 200px;
   }
 
   .hero .hero-content h1 {
