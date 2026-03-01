@@ -10,28 +10,45 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+
+  <!-- Top Bar -->
+  <div class="top-bar">
+    <a href="mailto:beyazistanbulshoes@gmail.com">beyazistanbulshoes@gmail.com</a>
+    <span>|</span>
+    Handcrafted in Istanbul, Türkiye
+    <span>|</span>
+    <a href="tel:+905389469668">+90 (538) 946 96 68</a>
+  </div>
+
   <!-- Header -->
   <header>
     <div class="nav-container">
       <a href="index.html" class="logo">
         <img src="logo.png" alt="BEYAZ logo" />
-        
       </a>
+      <button class="hamburger" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
       <nav>
         <ul>
           <li><a href="index.html">Home</a></li>
           <li><a href="about.html">About</a></li>
           <li><a href="catalog.html">Catalog</a></li>
           <li><a href="wholesale.html">Wholesale</a></li>
-          <li><a href="contact.html">Contact</a></li>
+          <li><a href="contact.html" class="active">Contact</a></li>
         </ul>
       </nav>
     </div>
   </header>
 
-  <div class="contact-container">
+  <!-- Page Hero -->
+  <div class="page-hero">
+    <span class="section-label">Get in Touch</span>
     <h1>Contact Us</h1>
-    <p style="text-align:center; max-width:600px; margin:0 auto 2rem;">We'd love to hear from you. Whether you're interested in wholesale, custom designs or simply have a question about our collection, please use the form below or reach us via email or phone.</p>
+    <p>We'd love to hear from you. Whether you're interested in wholesale, custom designs or simply have a question about our collection.</p>
+  </div>
+
+  <div class="contact-container">
     <form action="mailto:beyazistanbulshoes@gmail.com" method="post" enctype="text/plain">
       <label for="name">Your Name</label>
       <input type="text" id="name" name="name" required />
@@ -47,26 +64,51 @@
       </select>
       <label for="message">Message</label>
       <textarea id="message" name="message" rows="5" required></textarea>
-      <button type="submit" class="button">Submit</button>
+      <button type="submit" class="button">Send Message</button>
     </form>
-    <div style="margin-top:2rem; text-align:center;">
-      <p>Email: <a href="mailto:beyazistanbulshoes@gmail.com" style="color:var(--color-accent);">beyazistanbulshoes@gmail.com</a></p>
-      <p>Headquarters: <a href="tel:+905389469668" style="color:var(--color-accent);">+90 (538) 946 96 68</a></p>
-      <p>Owner: <a href="tel:+17203570338" style="color:var(--color-accent);">720 357 0338</a></p>
-      <p><em>Headquarters: Istanbul, Türkiye</em></p>
+
+    <div class="contact-info-grid">
+      <div class="contact-info-item">
+        <span class="info-label">Email</span>
+        <a href="mailto:beyazistanbulshoes@gmail.com">beyazistanbulshoes@gmail.com</a>
+      </div>
+      <div class="contact-info-item">
+        <span class="info-label">Headquarters</span>
+        <a href="tel:+905389469668">+90 (538) 946 96 68</a>
+      </div>
+      <div class="contact-info-item">
+        <span class="info-label">Owner</span>
+        <a href="tel:+17203570338">720 357 0338</a>
+      </div>
+      <div class="contact-info-item">
+        <span class="info-label">Location</span>
+        <p>Istanbul, Türkiye</p>
+      </div>
     </div>
   </div>
 
   <!-- Footer -->
   <footer>
-    <div class="footer-content">
-      <p>&copy; 2026 BEYAZ Istanbul Shoes. All rights reserved.</p>
-      <p>
-        <a href="mailto:beyazistanbulshoes@gmail.com" style="color: #eee;">beyazistanbulshoes@gmail.com</a>
-        • Headquarters: <a href="tel:+905389469668" style="color: #eee;">+90 (538) 946 96 68</a>
-        • Owner: <a href="tel:+17203570338" style="color: #eee;">720 357 0338</a>
-      </p>
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="footer-brand-name">BEYAZ Istanbul</div>
+        <p>Handcrafted footwear from Istanbul, Türkiye. Premium Turkish leather shoes for boutiques and retailers worldwide.</p>
+      </div>
+      <div class="footer-contact">
+        <p class="contact-label">Email</p>
+        <p><a href="mailto:beyazistanbulshoes@gmail.com">beyazistanbulshoes@gmail.com</a></p>
+        <p class="contact-label">Headquarters</p>
+        <p><a href="tel:+905389469668">+90 (538) 946 96 68</a></p>
+        <p class="contact-label">Owner</p>
+        <p><a href="tel:+17203570338">720 357 0338</a></p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; 2026 BEYAZ Istanbul Shoes. All rights reserved.</span>
+      <span>Istanbul, Türkiye</span>
     </div>
   </footer>
+
+  <script src="scripts.js"></script>
 </body>
 </html>

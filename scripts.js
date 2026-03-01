@@ -1,30 +1,76 @@
 /*
  * Shared JavaScript for the BEYAZ website.
- *
- * Responsible for loading product data, filtering the catalog and populating
- * individual product pages based on the query string.
  */
 
-// Utility to fetch JSON data from a relative path
+// ─── Global UI ─────────────────────────────────────────────────────────────
+
+document.addEventListener('DOMContentLoaded', () => {
+  initHamburger();
+  initScrollHeader();
+
+  const page = document.body.dataset.page;
+  if (page === 'catalog') {
+    initCatalog();
+  } else if (page === 'product') {
+    initProductPage();
+  }
+});
+
+function initHamburger() {
+  const hamburger = document.querySelector('.hamburger');
+  const navList = document.querySelector('nav ul');
+  if (!hamburger || !navList) return;
+
+  hamburger.addEventListener('click', () => {
+    const isOpen = navList.classList.toggle('nav-open');
+    hamburger.classList.toggle('open', isOpen);
+    hamburger.setAttribute('aria-expanded', isOpen);
+  });
+
+  // Close on outside click
+  document.addEventListener('click', (e) => {
+    if (!hamburger.contains(e.target) && !navList.contains(e.target)) {
+      navList.classList.remove('nav-open');
+      hamburger.classList.remove('open');
+    }
+  });
+}
+
+function initScrollHeader() {
+  const header = document.querySelector('header');
+  if (!header) return;
+  window.addEventListener('scroll', () => {
+    header.classList.toggle('scrolled', window.scrollY > 10);
+  }, { passive: true });
+}
+
+// ─── Product Data ───────────────────────────────────────────────────────────
+
 async function fetchProducts() {
   try {
-    // Load products from root-level JSON file (GitHub Pages site has products.json at project root)
     const response = await fetch('products.json');
     if (!response.ok) throw new Error('Network response was not ok');
-    const data = await response.json();
-    return data;
+    return await response.json();
   } catch (err) {
     console.error('Error loading products:', err);
     return [];
   }
 }
 
-// Initialize the catalog page
+// ─── Catalog Page ───────────────────────────────────────────────────────────
+
 async function initCatalog() {
   const products = await fetchProducts();
   const grid = document.querySelector('.product-grid');
   const filterButtons = document.querySelectorAll('.filters button');
   let activeFilter = 'all';
+
+  function buildBadges(product) {
+    const badges = [];
+    if (product.new) badges.push('<span class="badge badge-new">New</span>');
+    if (product.bestSeller) badges.push('<span class="badge badge-bestseller">Best Seller</span>');
+    return badges.length ? `<div class="product-badges">${badges.join('')}</div>` : '';
+  }
 
   function render(items) {
     if (!grid) return;
@@ -33,12 +79,15 @@ async function initCatalog() {
       const card = document.createElement('div');
       card.className = 'product-card';
       card.innerHTML = `
-        <img src="${product.image}" alt="${product.name}" />
+        <div class="product-card-img-wrap">
+          <img src="${product.image}" alt="${product.name}" loading="lazy" />
+        </div>
         <div class="product-info">
+          ${buildBadges(product)}
           <h4>${product.name}</h4>
           <div class="price">${product.price}</div>
           <div class="cta">
-            <a class="button button-outline" href="product.html?id=${product.id}">Details</a>
+            <a class="button button-outline" href="product.html?id=${product.id}">View Details</a>
           </div>
         </div>
       `;
@@ -58,7 +107,6 @@ async function initCatalog() {
     render(filtered);
   }
 
-  // Set up filter button listeners
   filterButtons.forEach((btn) => {
     btn.addEventListener('click', (e) => {
       e.preventDefault();
@@ -70,43 +118,51 @@ async function initCatalog() {
     });
   });
 
-  // Render all products initially
   applyFilter(activeFilter);
 }
 
-// Initialize the product detail page
+// ─── Product Detail Page ────────────────────────────────────────────────────
+
 async function initProductPage() {
   const params = new URLSearchParams(window.location.search);
   const id = params.get('id');
   if (!id) return;
+
   const products = await fetchProducts();
   const product = products.find((p) => p.id === id);
   if (!product) return;
-  // Populate elements
+
+  // Update page title
+  document.title = `${product.name} – BEYAZ`;
+
+  // Populate text fields
   document.querySelector('.product-title').textContent = product.name;
-  // Main image
+
   const mainImgEl = document.querySelector('.product-image-main');
   mainImgEl.src = product.image;
-  document.querySelector('.product-description').textContent = product.description;
-  document.querySelector('.product-materials').textContent = product.materials;
-  document.querySelector('.product-sizes').textContent = product.sizes;
-  document.querySelector('.product-colorways').textContent = product.colorways;
-  document.querySelector('.product-care').textContent = product.care;
-  document.querySelector('.product-lead-time').textContent = product.lead_time;
-  document.querySelector('.product-moq').textContent = product.moq;
+  mainImgEl.alt = product.name;
 
-  // Populate thumbnails if multiple images exist
+  const setText = (sel, val) => {
+    const el = document.querySelector(sel);
+    if (el) el.textContent = val || '—';
+  };
+
+  setText('.product-description', product.description);
+  setText('.product-materials', product.materials);
+  setText('.product-sizes', product.sizes);
+  setText('.product-colorways', product.colorways);
+  setText('.product-care', product.care);
+  setText('.product-lead-time', product.lead_time);
+  setText('.product-moq', product.moq);
+
+  // Thumbnails
   const thumbnailsContainer = document.querySelector('.product-thumbnails');
   if (thumbnailsContainer && Array.isArray(product.images) && product.images.length > 1) {
     thumbnailsContainer.innerHTML = '';
     product.images.forEach((imgSrc) => {
       const thumb = document.createElement('img');
       thumb.src = imgSrc;
-      thumb.style.width = '60px';
-      thumb.style.height = '60px';
-      thumb.style.objectFit = 'cover';
-      thumb.style.cursor = 'pointer';
-      thumb.style.border = '1px solid #eee';
+      thumb.alt = product.name;
       thumb.addEventListener('click', () => {
         mainImgEl.src = imgSrc;
       });
@@ -114,20 +170,10 @@ async function initProductPage() {
     });
   }
 
-  // Set form hidden fields for inquiry
+  // Inquiry form hidden fields
   const form = document.querySelector('#inquiry-form');
   if (form) {
     form.querySelector('input[name="product_id"]').value = product.id;
     form.querySelector('input[name="product_name"]').value = product.name;
   }
 }
-
-// Setup page specific logic based on body data attribute
-document.addEventListener('DOMContentLoaded', () => {
-  const page = document.body.dataset.page;
-  if (page === 'catalog') {
-    initCatalog();
-  } else if (page === 'product') {
-    initProductPage();
-  }
-});

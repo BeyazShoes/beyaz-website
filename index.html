@@ -10,16 +10,28 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+
+  <!-- Top Bar -->
+  <div class="top-bar">
+    <a href="mailto:beyazistanbulshoes@gmail.com">beyazistanbulshoes@gmail.com</a>
+    <span>|</span>
+    Handcrafted in Istanbul, Türkiye
+    <span>|</span>
+    <a href="tel:+905389469668">+90 (538) 946 96 68</a>
+  </div>
+
   <!-- Header -->
   <header>
     <div class="nav-container">
       <a href="index.html" class="logo">
         <img src="logo.png" alt="BEYAZ logo" />
-      
       </a>
+      <button class="hamburger" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
       <nav>
         <ul>
-          <li><a href="index.html">Home</a></li>
+          <li><a href="index.html" class="active">Home</a></li>
           <li><a href="about.html">About</a></li>
           <li><a href="catalog.html">Catalog</a></li>
           <li><a href="wholesale.html">Wholesale</a></li>
@@ -29,93 +41,119 @@
     </div>
   </header>
 
-  <!-- Hero section -->
-      <section class="hero">
-          <img src="hero_final.png" alt="Women's leather boots" />
+  <!-- Hero -->
+  <section class="hero">
+    <img src="hero_final.png" alt="Handcrafted leather shoes, Istanbul" />
     <div class="hero-content">
-      <h1>Handcrafted Footwear, Timeless Character</h1>
-      <p>Discover quality shoes crafted in Istanbul from the finest Turkish leathers. Made for those who value tradition and sophistication.</p>
-      <a href="catalog.html" class="button">View Catalog</a>
-      <a href="wholesale.html" class="button button-outline" style="margin-left: 0.5rem;">Wholesale Info</a>
+      <h1>Handcrafted Footwear,<br>Timeless Character</h1>
+      <p>Quality shoes crafted in Istanbul from the finest Turkish leathers — made for those who value tradition and sophistication.</p>
+      <div class="hero-buttons">
+        <a href="catalog.html" class="button">View Catalog</a>
+        <a href="wholesale.html" class="button button-white">Wholesale Info</a>
+      </div>
     </div>
   </section>
 
-  <!-- Credibility section -->
+  <!-- Credibility -->
   <section class="credibility">
     <div class="cred-block">
+      <span class="cred-number">01</span>
       <h3>Istanbul Artisans</h3>
-      <p>Each pair is hand‑crafted by skilled cobblers in the heart of Istanbul, carrying forward generations of shoemaking heritage.</p>
+      <p>Each pair is hand-crafted by skilled cobblers in the heart of Istanbul, carrying forward generations of shoemaking heritage.</p>
     </div>
     <div class="cred-block">
+      <span class="cred-number">02</span>
       <h3>Turkish Leather</h3>
       <p>We source premium leathers from Türkiye to ensure durability, comfort and a rich patina that deepens with wear.</p>
     </div>
     <div class="cred-block">
+      <span class="cred-number">03</span>
       <h3>Handcrafted Quality</h3>
       <p>Our meticulous process results in shoes that tell a story of craftsmanship, character and timeless style.</p>
     </div>
   </section>
 
-  <!-- Featured products -->
+  <!-- Featured Products -->
   <section class="featured-section">
+    <span class="section-label">Our Collection</span>
     <h2>Featured Products</h2>
     <div class="product-grid">
-      <!-- Manually selected featured products -->
-      <!-- Display the first four shoe designs from our catalog -->
       <div class="product-card">
-        <img src="shoe1.jpg" alt="Shoe Design 1" />
+        <div class="product-card-img-wrap">
+          <img src="shoe1.jpg" alt="Istanbul Woven Sneaker" />
+        </div>
         <div class="product-info">
-          <h4>Shoe Design 1</h4>
+          <h4>Istanbul Woven Sneaker</h4>
           <div class="price">Price on request</div>
-          <div class="cta"><a class="button button-outline" href="product.html?id=shoe-1">Details</a></div>
+          <div class="cta"><a class="button button-outline" href="product.html?id=shoe-1">View Details</a></div>
         </div>
       </div>
       <div class="product-card">
-        <img src="shoe2.jpg" alt="Shoe Design 2" />
+        <div class="product-card-img-wrap">
+          <img src="shoe7.jpg" alt="Pebbled Leather Loafer" />
+        </div>
         <div class="product-info">
-          <h4>Shoe Design 2</h4>
+          <h4>Pebbled Leather Loafer</h4>
           <div class="price">Price on request</div>
-          <div class="cta"><a class="button button-outline" href="product.html?id=shoe-2">Details</a></div>
+          <div class="cta"><a class="button button-outline" href="product.html?id=shoe-7">View Details</a></div>
         </div>
       </div>
       <div class="product-card">
-        <img src="shoe3.jpg" alt="Shoe Design 3" />
+        <div class="product-card-img-wrap">
+          <img src="shoe16.jpg" alt="Leather Mary Jane" />
+        </div>
         <div class="product-info">
-          <h4>Shoe Design 3</h4>
+          <h4>Leather Mary Jane</h4>
           <div class="price">Price on request</div>
-          <div class="cta"><a class="button button-outline" href="product.html?id=shoe-3">Details</a></div>
+          <div class="cta"><a class="button button-outline" href="product.html?id=shoe-16">View Details</a></div>
         </div>
       </div>
       <div class="product-card">
-        <img src="shoe4.jpg" alt="Shoe Design 4" />
+        <div class="product-card-img-wrap">
+          <img src="shoe17.jpg" alt="Patent Tassel Loafer" />
+        </div>
         <div class="product-info">
-          <h4>Shoe Design 4</h4>
+          <h4>Patent Tassel Loafer</h4>
           <div class="price">Price on request</div>
-          <div class="cta"><a class="button button-outline" href="product.html?id=shoe-4">Details</a></div>
+          <div class="cta"><a class="button button-outline" href="product.html?id=shoe-17">View Details</a></div>
         </div>
       </div>
+    </div>
+    <div style="text-align:center; margin-top: 3rem;">
+      <a href="catalog.html" class="button">Browse Full Catalog</a>
     </div>
   </section>
 
-  <!-- Call to action -->
-  <section style="background-color: var(--color-muted); padding: 3rem 1rem;">
-    <div style="max-width: var(--max-content-width); margin: 0 auto; text-align: center;">
-      <h2 style="font-family: var(--font-heading); margin-bottom: 1rem;">Interested in Our Collection?</h2>
-      <p style="margin-bottom: 1.5rem;">Whether you're a boutique, retailer or stylist, we're here to help. Contact us for pricing, samples and custom requests.</p>
-      <a href="contact.html" class="button">Request Information</a>
-    </div>
+  <!-- CTA -->
+  <section class="cta-section">
+    <span class="section-label" style="color:#666;">Work With Us</span>
+    <h2>Interested in Our Collection?</h2>
+    <p>Whether you're a boutique, retailer or stylist, we're here to help. Contact us for pricing, samples and custom requests.</p>
+    <a href="contact.html" class="button">Request Information</a>
   </section>
 
   <!-- Footer -->
   <footer>
-    <div class="footer-content">
-      <p>&copy; 2026 BEYAZ Istanbul Shoes. All rights reserved.</p>
-      <p>
-        <a href="mailto:beyazistanbulshoes@gmail.com" style="color: #eee;">beyazistanbulshoes@gmail.com</a>
-        • Headquarters: <a href="tel:+905389469668" style="color: #eee;">+90 (538) 946 96 68</a>
-        • Owner: <a href="tel:+17203570338" style="color: #eee;">720 357 0338</a>
-      </p>
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="footer-brand-name">BEYAZ Istanbul</div>
+        <p>Handcrafted footwear from Istanbul, Türkiye. Premium Turkish leather shoes for boutiques and retailers worldwide.</p>
+      </div>
+      <div class="footer-contact">
+        <p class="contact-label">Email</p>
+        <p><a href="mailto:beyazistanbulshoes@gmail.com">beyazistanbulshoes@gmail.com</a></p>
+        <p class="contact-label">Headquarters</p>
+        <p><a href="tel:+905389469668">+90 (538) 946 96 68</a></p>
+        <p class="contact-label">Owner</p>
+        <p><a href="tel:+17203570338">720 357 0338</a></p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; 2026 BEYAZ Istanbul Shoes. All rights reserved.</span>
+      <span>Istanbul, Türkiye</span>
     </div>
   </footer>
+
+  <script src="scripts.js"></script>
 </body>
 </html>

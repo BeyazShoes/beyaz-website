@@ -10,13 +10,25 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body data-page="product">
+
+  <!-- Top Bar -->
+  <div class="top-bar">
+    <a href="mailto:beyazistanbulshoes@gmail.com">beyazistanbulshoes@gmail.com</a>
+    <span>|</span>
+    Handcrafted in Istanbul, Türkiye
+    <span>|</span>
+    <a href="tel:+905389469668">+90 (538) 946 96 68</a>
+  </div>
+
   <!-- Header -->
   <header>
     <div class="nav-container">
       <a href="index.html" class="logo">
-        <img srclogo.png" alt="BEYAZ logo" />
-        
+        <img src="logo.png" alt="BEYAZ logo" />
       </a>
+      <button class="hamburger" aria-label="Toggle menu">
+        <span></span><span></span><span></span>
+      </button>
       <nav>
         <ul>
           <li><a href="index.html">Home</a></li>
@@ -29,51 +41,56 @@
     </div>
   </header>
 
-  <div class="featured-section" style="padding-top: 3rem;">
-    <h2 class="product-title">Product Name</h2>
-    <div style="display:flex; flex-wrap: wrap; gap:2rem; margin-top:2rem;">
-      <div style="flex:1 1 300px; min-width:260px;">
-        <img class="product-image-main" src="" alt="Product image" style="width:100%; height:auto; border:1px solid #eee;" />
-        <!-- Thumbnails for additional angles -->
-        <div class="product-thumbnails" style="display:flex; flex-wrap:wrap; gap:0.5rem; margin-top:0.5rem;"></div>
+  <div class="featured-section" style="padding-top: 2.5rem;">
+    <a href="catalog.html" class="back-link">&#8592; Back to Catalog</a>
+
+    <h2 class="product-title" style="font-family: var(--font-heading); font-size: 2rem; margin: 0 0 0.25rem;"></h2>
+    <p class="product-subtitle" style="font-size: 0.78rem; letter-spacing: 0.1em; text-transform: uppercase; color: #888; margin: 0 0 2rem;">BEYAZ Istanbul</p>
+
+    <div class="product-detail-wrap">
+      <div class="product-detail-images">
+        <img class="product-image-main" src="" alt="Product image" style="width:100%; height:auto; border:1px solid #eee; border-radius: 2px;" />
+        <div class="product-thumbnails"></div>
       </div>
-      <div style="flex:1 1 300px; min-width:260px;">
-        <h3 style="font-family:var(--font-heading); font-size:1.5rem; margin-top:0;">Description</h3>
+      <div class="product-detail-info">
+        <h2>Details</h2>
+        <h4>Description</h4>
         <p class="product-description"></p>
-        <h4 style="font-family:var(--font-heading); font-size:1.25rem; margin-top:1.5rem;">Materials</h4>
+        <h4>Materials</h4>
         <p class="product-materials"></p>
-        <h4 style="font-family:var(--font-heading); font-size:1.25rem; margin-top:1rem;">Sizes</h4>
+        <h4>Sizes</h4>
         <p class="product-sizes"></p>
-        <h4 style="font-family:var(--font-heading); font-size:1.25rem; margin-top:1rem;">Colorways</h4>
+        <h4>Colorways</h4>
         <p class="product-colorways"></p>
-        <h4 style="font-family:var(--font-heading); font-size:1.25rem; margin-top:1rem;">Care</h4>
+        <h4>Care</h4>
         <p class="product-care"></p>
-        <h4 style="font-family:var(--font-heading); font-size:1.25rem; margin-top:1rem;">Lead Time</h4>
+        <h4>Lead Time</h4>
         <p class="product-lead-time"></p>
-        <h4 style="font-family:var(--font-heading); font-size:1.25rem; margin-top:1rem;">Minimum Order Quantity</h4>
+        <h4>Minimum Order Quantity</h4>
         <p class="product-moq"></p>
       </div>
     </div>
-    <div style="margin-top:2rem;">
-      <h3 style="font-family:var(--font-heading);">Request a Quote</h3>
-      <form id="inquiry-form" action="mailto:beyazistanbulshoes@gmail.com" method="post" enctype="text/plain" style="max-width:600px;">
+
+    <div class="product-inquiry-section">
+      <h3>Request a Quote</h3>
+      <form id="inquiry-form" action="mailto:beyazistanbulshoes@gmail.com" method="post" enctype="text/plain">
         <input type="hidden" name="product_id" value="" />
         <input type="hidden" name="product_name" value="" />
-        <div style="margin-bottom:1rem;">
-          <label for="name">Your Name</label><br />
+        <div style="margin-bottom:1.25rem;">
+          <label for="name">Your Name</label>
           <input type="text" id="name" name="name" required />
         </div>
-        <div style="margin-bottom:1rem;">
-          <label for="email">Email</label><br />
+        <div style="margin-bottom:1.25rem;">
+          <label for="email">Email</label>
           <input type="email" id="email" name="email" required />
         </div>
-        <div style="margin-bottom:1rem;">
-          <label for="company">Company</label><br />
+        <div style="margin-bottom:1.25rem;">
+          <label for="company">Company</label>
           <input type="text" id="company" name="company" />
         </div>
-        <div style="margin-bottom:1rem;">
-          <label for="message">Message</label><br />
-          <textarea id="message" name="message" rows="4" placeholder="Please include quantities, size range and any special requests..." required></textarea>
+        <div style="margin-bottom:1.25rem;">
+          <label for="message">Message</label>
+          <textarea id="message" name="message" rows="4" placeholder="Please include quantities, size range and any special requests..."></textarea>
         </div>
         <button type="submit" class="button">Send Inquiry</button>
       </form>
@@ -82,13 +99,23 @@
 
   <!-- Footer -->
   <footer>
-    <div class="footer-content">
-      <p>&copy; 2026 BEYAZ Istanbul Shoes. All rights reserved.</p>
-      <p>
-        <a href="mailto:beyazistanbulshoes@gmail.com" style="color: #eee;">beyazistanbulshoes@gmail.com</a>
-        • Headquarters: <a href="tel:+905389469668" style="color: #eee;">+90 (538) 946 96 68</a>
-        • Owner: <a href="tel:+17203570338" style="color: #eee;">720 357 0338</a>
-      </p>
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="footer-brand-name">BEYAZ Istanbul</div>
+        <p>Handcrafted footwear from Istanbul, Türkiye. Premium Turkish leather shoes for boutiques and retailers worldwide.</p>
+      </div>
+      <div class="footer-contact">
+        <p class="contact-label">Email</p>
+        <p><a href="mailto:beyazistanbulshoes@gmail.com">beyazistanbulshoes@gmail.com</a></p>
+        <p class="contact-label">Headquarters</p>
+        <p><a href="tel:+905389469668">+90 (538) 946 96 68</a></p>
+        <p class="contact-label">Owner</p>
+        <p><a href="tel:+17203570338">720 357 0338</a></p>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; 2026 BEYAZ Istanbul Shoes. All rights reserved.</span>
+      <span>Istanbul, Türkiye</span>
     </div>
   </footer>
 
