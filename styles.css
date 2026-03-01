@@ -99,13 +99,16 @@ header.scrolled {
 
 .logo {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   flex-shrink: 0;
+  overflow: hidden;
+  height: 230px;
 }
 
 .logo img {
-  width: min(95vw, 1100px);
-  height: auto;
+  height: 530px;
+  width: auto;
+  margin-top: -148px;
   margin-right: 0;
 }
 
@@ -1001,9 +1004,14 @@ footer {
 }
 
 @media (max-width: 480px) {
+  .logo {
+    height: 130px;
+  }
+
   .logo img {
-    width: 92vw;
-    height: auto;
+    height: 300px;
+    width: auto;
+    margin-top: -84px;
   }
 
   .hero .hero-content h1 {
