@@ -1,9 +1,10 @@
 ﻿[
     {
         "id":  "shoe-1",
-        "name":  "Istanbul Woven Sneaker - Black (STYLE 1)",
-        "image":  "0171c227-121e-4afc-ae90-e25b049c8db1.JPG",
+        "name":  "Istanbul Woven Sneaker - Black Style# 001",
+        "image":  "25f06c32-1ca4-4b1f-aaad-d179b2df496a.JPG",
         "images":  [
+                       "25f06c32-1ca4-4b1f-aaad-d179b2df496a.JPG",
                        "0171c227-121e-4afc-ae90-e25b049c8db1.JPG"
                    ],
         "materials":  "Turkish leather upper and synthetic sole",
@@ -18,7 +19,7 @@
     },
     {
         "id":  "shoe-2",
-        "name":  "Milano Mesh Runner - Taupe (STYLE 2)",
+        "name":  "Milano Mesh Runner - Taupe Style# 002",
         "image":  "0202fbbf-aaea-4d23-b97d-3a7f202c7645.JPG",
         "images":  [
                        "0202fbbf-aaea-4d23-b97d-3a7f202c7645.JPG"
@@ -35,7 +36,7 @@
     },
     {
         "id":  "shoe-3",
-        "name":  "Ankara Woven Sneaker - Burgundy (STYLE 3)",
+        "name":  "Ankara Woven Sneaker - Burgundy Style# 003",
         "image":  "03909447-0428-42fc-88e2-99eaa555e0e3.JPG",
         "images":  [
                        "03909447-0428-42fc-88e2-99eaa555e0e3.JPG"
@@ -52,7 +53,7 @@
     },
     {
         "id":  "shoe-4",
-        "name":  "Bosphorus Raffia Mule - Black \u0026 Cream (STYLE 4)",
+        "name":  "Bosphorus Raffia Mule - Black \u0026 Cream Style# 004",
         "image":  "04ca4c17-9672-4dcb-ae09-0f237d0ffeeb.JPG",
         "images":  [
                        "04ca4c17-9672-4dcb-ae09-0f237d0ffeeb.JPG"
@@ -69,10 +70,11 @@
     },
     {
         "id":  "shoe-5",
-        "name":  "Perforated Monk Strap - Brown Suede (STYLE 5)",
+        "name":  "Perforated Monk Strap - Brown Suede Style# 005",
         "image":  "08e15fee-017e-439a-8c55-aa42dadad823.JPG",
         "images":  [
-                       "08e15fee-017e-439a-8c55-aa42dadad823.JPG"
+                       "08e15fee-017e-439a-8c55-aa42dadad823.JPG",
+                       "2a977033-7cba-46db-8d4f-d3e8a7a80d04.JPG"
                    ],
         "materials":  "Turkish leather upper and synthetic sole",
         "sizes":  "EU 36-40",
@@ -86,7 +88,7 @@
     },
     {
         "id":  "shoe-6",
-        "name":  "Croco Mary Jane - Black Suede (STYLE 6)",
+        "name":  "Croco Mary Jane - Black Suede Style# 006",
         "image":  "098e0c0d-53dd-42c6-a056-a20c5d19bc99.JPG",
         "images":  [
                        "098e0c0d-53dd-42c6-a056-a20c5d19bc99.JPG"
@@ -103,7 +105,7 @@
     },
     {
         "id":  "shoe-7",
-        "name":  "Pebbled Leather Loafer - Taupe (STYLE 7)",
+        "name":  "Pebbled Leather Loafer - Taupe Style# 007",
         "image":  "0c46f2c5-54ae-4f4e-be4a-28c02098fd6b.JPG",
         "images":  [
                        "0c46f2c5-54ae-4f4e-be4a-28c02098fd6b.JPG"
@@ -120,7 +122,7 @@
     },
     {
         "id":  "shoe-8",
-        "name":  "Croco Suede Loafer - Black (STYLE 8)",
+        "name":  "Croco Suede Loafer - Black Style# 008",
         "image":  "0d68bda3-804b-4071-a75d-d8f5e0ee3ab6.JPG",
         "images":  [
                        "0d68bda3-804b-4071-a75d-d8f5e0ee3ab6.JPG"
@@ -137,7 +139,7 @@
     },
     {
         "id":  "shoe-9",
-        "name":  "Woven Panel Sneaker - White \u0026 Silver (STYLE 9)",
+        "name":  "Woven Panel Sneaker - White \u0026 Silver Style# 009",
         "image":  "100fa10f-2ea3-43f8-9409-cd4683c58562.JPG",
         "images":  [
                        "100fa10f-2ea3-43f8-9409-cd4683c58562.JPG"
@@ -154,7 +156,7 @@
     },
     {
         "id":  "shoe-10",
-        "name":  "Tassel Penny Loafer - Tan (STYLE 10)",
+        "name":  "Tassel Penny Loafer - Tan Style# 010",
         "image":  "12464eff-495d-46b8-b53b-a4e5c405d741.JPG",
         "images":  [
                        "12464eff-495d-46b8-b53b-a4e5c405d741.JPG"
@@ -171,7 +173,7 @@
     },
     {
         "id":  "shoe-11",
-        "name":  "Beaded Lace Boat Shoe - Brown Suede (STYLE 11)",
+        "name":  "Mesh Panel Sneaker - White Style# 011",
         "image":  "13a6bd7c-261e-43ac-a513-dae92d9bf285.JPG",
         "images":  [
                        "13a6bd7c-261e-43ac-a513-dae92d9bf285.JPG"
@@ -188,7 +190,7 @@
     },
     {
         "id":  "shoe-12",
-        "name":  "Woven Leather Sneaker - Brown \u0026 Tan (STYLE 12)",
+        "name":  "Woven Leather Sneaker - Brown \u0026 Tan Style# 012",
         "image":  "14985b64-b8c6-445f-8d01-36fccddfba96.JPG",
         "images":  [
                        "14985b64-b8c6-445f-8d01-36fccddfba96.JPG"
@@ -205,7 +207,7 @@
     },
     {
         "id":  "shoe-13",
-        "name":  "Croco Cap-Toe Flat - Beige (STYLE 13)",
+        "name":  "Croco Cap-Toe Flat - Beige Style# 013",
         "image":  "14cacbd2-c885-4a5c-a132-c3e538d5496b.JPG",
         "images":  [
                        "14cacbd2-c885-4a5c-a132-c3e538d5496b.JPG"
@@ -222,7 +224,7 @@
     },
     {
         "id":  "shoe-14",
-        "name":  "Canvas Slip-On Sneaker - Navy \u0026 White (STYLE 14)",
+        "name":  "Canvas Slip-On Sneaker - Navy \u0026 White Style# 014",
         "image":  "19e2f628-62ca-4ee6-9763-46959e9e9fbd.JPG",
         "images":  [
                        "19e2f628-62ca-4ee6-9763-46959e9e9fbd.JPG"
@@ -239,7 +241,7 @@
     },
     {
         "id":  "shoe-15",
-        "name":  "Suede Mary Jane - Caramel Brown (STYLE 15)",
+        "name":  "Suede Mary Jane - Caramel Brown Style# 015",
         "image":  "19efd807-323d-4080-9b8e-d465bd3f3699.JPG",
         "images":  [
                        "19efd807-323d-4080-9b8e-d465bd3f3699.JPG"
@@ -256,7 +258,7 @@
     },
     {
         "id":  "shoe-16",
-        "name":  "Woven Mule - Black \u0026 Ivory (STYLE 16)",
+        "name":  "Woven Mule - Black \u0026 Ivory Style# 016",
         "image":  "1f43dbea-82d9-4dce-9ff3-c3624d17264e.JPG",
         "images":  [
                        "1f43dbea-82d9-4dce-9ff3-c3624d17264e.JPG"
@@ -273,7 +275,7 @@
     },
     {
         "id":  "shoe-17",
-        "name":  "Metallic Accent Loafer - Mustard (STYLE 17)",
+        "name":  "Metallic Accent Loafer - Mustard Style# 017",
         "image":  "21dccd1b-76c2-4a38-8675-19e78b3b34b1.JPG",
         "images":  [
                        "21dccd1b-76c2-4a38-8675-19e78b3b34b1.JPG"
@@ -290,7 +292,7 @@
     },
     {
         "id":  "shoe-18",
-        "name":  "Open-Weave Sneaker - Green \u0026 Orange (STYLE 18)",
+        "name":  "Open-Weave Sneaker - Green \u0026 Orange Style# 018",
         "image":  "71cb2a99-68ce-4d6c-a2dd-9ad5bf22d44a.JPG",
         "images":  [
                        "71cb2a99-68ce-4d6c-a2dd-9ad5bf22d44a.JPG"
@@ -307,24 +309,7 @@
     },
     {
         "id":  "shoe-19",
-        "name":  "Smooth Leather Loafer - Black (STYLE 19)",
-        "image":  "25f06c32-1ca4-4b1f-aaad-d179b2df496a.JPG",
-        "images":  [
-                       "25f06c32-1ca4-4b1f-aaad-d179b2df496a.JPG"
-                   ],
-        "materials":  "Turkish leather upper and synthetic sole",
-        "sizes":  "EU 36-40",
-        "care":  "Use leather conditioner and soft cloth; avoid moisture",
-        "lead_time":  "Price on request",
-        "moq":  "Price on request",
-        "price":  "Price on request",
-        "category":  "women",
-        "new":  false,
-        "bestSeller":  false
-    },
-    {
-        "id":  "shoe-20",
-        "name":  "Buckle Strap Flat - Beige Croc (STYLE 20)",
+        "name":  "Buckle Strap Flat - Beige Croc Style# 019",
         "image":  "2d572ce9-cab4-473b-8088-fc3a7ddc1c33.JPG",
         "images":  [
                        "2d572ce9-cab4-473b-8088-fc3a7ddc1c33.JPG"
@@ -340,8 +325,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-21",
-        "name":  "Suede Penny Loafer - Navy (STYLE 21)",
+        "id":  "shoe-20",
+        "name":  "Raffia Woven Mule - Black \u0026 Natural Style# 020",
         "image":  "31d82e62-9d20-47c7-b894-895835ba8535.JPG",
         "images":  [
                        "31d82e62-9d20-47c7-b894-895835ba8535.JPG"
@@ -357,8 +342,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-22",
-        "name":  "Perforated Leather Sneaker - White (STYLE 22)",
+        "id":  "shoe-21",
+        "name":  "Croco Mary Jane - Beige Style# 021",
         "image":  "3ae77fe1-3318-490a-8842-151884952c81.JPG",
         "images":  [
                        "3ae77fe1-3318-490a-8842-151884952c81.JPG"
@@ -374,8 +359,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-23",
-        "name":  "Tassel Loafer - Cognac (STYLE 23)",
+        "id":  "shoe-22",
+        "name":  "Tassel Loafer - Cognac Style# 022",
         "image":  "3b2b1072-8127-40d4-a98c-a472cf8e787b.JPG",
         "images":  [
                        "3b2b1072-8127-40d4-a98c-a472cf8e787b.JPG"
@@ -391,8 +376,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-24",
-        "name":  "Croco Embossed Flat - Brown (STYLE 24)",
+        "id":  "shoe-23",
+        "name":  "Croco Embossed Flat - Brown Style# 023",
         "image":  "3efecc11-619a-46e4-951c-c594e97337bb.JPG",
         "images":  [
                        "3efecc11-619a-46e4-951c-c594e97337bb.JPG"
@@ -408,8 +393,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-25",
-        "name":  "Woven Panel Mule - Cream (STYLE 25)",
+        "id":  "shoe-24",
+        "name":  "Woven Panel Mule - Cream Style# 024",
         "image":  "43023534-c400-4e9d-9f60-6c86aa8c0c23.JPG",
         "images":  [
                        "43023534-c400-4e9d-9f60-6c86aa8c0c23.JPG"
@@ -425,8 +410,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-26",
-        "name":  "Suede Boat Shoe - Gray (STYLE 26)",
+        "id":  "shoe-25",
+        "name":  "Suede Boat Shoe - Gray Style# 025",
         "image":  "43a2c9a5-187c-4f1c-9749-6e0100da44cf.JPG",
         "images":  [
                        "43a2c9a5-187c-4f1c-9749-6e0100da44cf.JPG"
@@ -442,8 +427,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-27",
-        "name":  "Leather Loafer - Olive Green (STYLE 27)",
+        "id":  "shoe-26",
+        "name":  "Leather Loafer - Olive Green Style# 026",
         "image":  "44633217-22d8-429f-b92f-086d94f8e1ea.JPG",
         "images":  [
                        "44633217-22d8-429f-b92f-086d94f8e1ea.JPG"
@@ -459,8 +444,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-28",
-        "name":  "Mary Jane Flat - Black Leather (STYLE 28)",
+        "id":  "shoe-27",
+        "name":  "Mary Jane Flat - Black Leather Style# 027",
         "image":  "45d1ac2a-072f-4e82-952c-fa4112e68f5a.JPG",
         "images":  [
                        "45d1ac2a-072f-4e82-952c-fa4112e68f5a.JPG"
@@ -476,8 +461,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-29",
-        "name":  "Woven Sneaker - Burgundy \u0026 Cream (STYLE 29)",
+        "id":  "shoe-28",
+        "name":  "Woven Sneaker - Burgundy \u0026 Cream Style# 028",
         "image":  "4641ebc4-43fb-4059-a096-95415b45e2d4.JPG",
         "images":  [
                        "4641ebc4-43fb-4059-a096-95415b45e2d4.JPG"
@@ -493,8 +478,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-30",
-        "name":  "Suede Slip-On - Blush Pink (STYLE 30)",
+        "id":  "shoe-29",
+        "name":  "Suede Slip-On - Blush Pink Style# 029",
         "image":  "4aad566e-d3f5-468f-875f-a878a4ec419a.JPG",
         "images":  [
                        "4aad566e-d3f5-468f-875f-a878a4ec419a.JPG"
@@ -510,8 +495,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-31",
-        "name":  "Croco Mary Jane - Tan (STYLE 31)",
+        "id":  "shoe-30",
+        "name":  "Croco Mary Jane - Tan Style# 030",
         "image":  "4d7c7a83-a82d-4f49-828a-485b248e0467.JPG",
         "images":  [
                        "4d7c7a83-a82d-4f49-828a-485b248e0467.JPG"
@@ -527,8 +512,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-32",
-        "name":  "Embossed Loafer - Dark Brown (STYLE 32)",
+        "id":  "shoe-31",
+        "name":  "Embossed Loafer - Dark Brown Style# 031",
         "image":  "4f25542e-f6ae-440c-993a-e9dd2c46e18f.JPG",
         "images":  [
                        "4f25542e-f6ae-440c-993a-e9dd2c46e18f.JPG"
@@ -544,25 +529,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-33",
-        "name":  "Woven Leather Mule - Camel (STYLE 33)",
-        "image":  "506026b2-f40c-4604-a8f7-2fafef9fd5b4.JPG",
-        "images":  [
-                       "506026b2-f40c-4604-a8f7-2fafef9fd5b4.JPG"
-                   ],
-        "materials":  "Turkish leather upper and synthetic sole",
-        "sizes":  "EU 36-40",
-        "care":  "Use leather conditioner and soft cloth; avoid moisture",
-        "lead_time":  "Price on request",
-        "moq":  "Price on request",
-        "price":  "Price on request",
-        "category":  "women",
-        "new":  false,
-        "bestSeller":  false
-    },
-    {
-        "id":  "shoe-34",
-        "name":  "Perforated Oxford - White \u0026 Tan (STYLE 34)",
+        "id":  "shoe-32",
+        "name":  "Perforated Oxford - White \u0026 Tan Style# 032",
         "image":  "53a6a977-2096-4b5c-9113-aecd9136998f.JPG",
         "images":  [
                        "53a6a977-2096-4b5c-9113-aecd9136998f.JPG"
@@ -578,8 +546,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-35",
-        "name":  "Suede Mary Jane - Black (STYLE 35)",
+        "id":  "shoe-33",
+        "name":  "Suede Mary Jane - Black Style# 033",
         "image":  "5b521e5a-58bd-4631-879b-4b55160503a1.JPG",
         "images":  [
                        "5b521e5a-58bd-4631-879b-4b55160503a1.JPG"
@@ -595,8 +563,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-36",
-        "name":  "Metallic Woven Sneaker - Gold \u0026 Black (STYLE 36)",
+        "id":  "shoe-34",
+        "name":  "Metallic Woven Sneaker - Gold \u0026 Black Style# 034",
         "image":  "5d50abd0-0641-4c5e-b34d-1e3442d3b3b7.JPG",
         "images":  [
                        "5d50abd0-0641-4c5e-b34d-1e3442d3b3b7.JPG"
@@ -612,8 +580,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-37",
-        "name":  "Tassel Loafer - Bordeaux (STYLE 37)",
+        "id":  "shoe-35",
+        "name":  "Tassel Loafer - Bordeaux Style# 035",
         "image":  "605de35a-202c-4b3c-8afe-add6ddb6ad6c.JPG",
         "images":  [
                        "605de35a-202c-4b3c-8afe-add6ddb6ad6c.JPG"
@@ -629,8 +597,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-38",
-        "name":  "Smooth Leather Flat - Nude (STYLE 38)",
+        "id":  "shoe-36",
+        "name":  "Smooth Leather Flat - Nude Style# 036",
         "image":  "65c23ef2-d902-4ada-b683-67795f4205f4.JPG",
         "images":  [
                        "65c23ef2-d902-4ada-b683-67795f4205f4.JPG"
@@ -646,8 +614,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-39",
-        "name":  "Croco Cap-Toe Loafer - Black (STYLE 39)",
+        "id":  "shoe-37",
+        "name":  "Croco Cap-Toe Loafer - Black Style# 037",
         "image":  "6919595d-3ef3-4ec0-8264-4f5a2f82d5c3.JPG",
         "images":  [
                        "6919595d-3ef3-4ec0-8264-4f5a2f82d5c3.JPG"
@@ -663,8 +631,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-40",
-        "name":  "Woven Panel Sneaker - Tan \u0026 Ivory (STYLE 40)",
+        "id":  "shoe-38",
+        "name":  "Woven Panel Sneaker - Tan \u0026 Ivory Style# 038",
         "image":  "6ca58592-5d18-4232-8eca-7fd4b9c29030.JPG",
         "images":  [
                        "6ca58592-5d18-4232-8eca-7fd4b9c29030.JPG"
@@ -680,8 +648,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-41",
-        "name":  "Suede Boat Shoe - Chocolate (STYLE 41)",
+        "id":  "shoe-39",
+        "name":  "Suede Boat Shoe - Chocolate Style# 039",
         "image":  "6dff0a72-03f6-4a57-9287-678304855c34.JPG",
         "images":  [
                        "6dff0a72-03f6-4a57-9287-678304855c34.JPG"
@@ -697,8 +665,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-42",
-        "name":  "Buckle Mary Jane - Cognac Suede (STYLE 42)",
+        "id":  "shoe-40",
+        "name":  "Buckle Mary Jane - Cognac Suede Style# 040",
         "image":  "70abb2c7-ecbd-4776-afff-e957886d1854.JPG",
         "images":  [
                        "70abb2c7-ecbd-4776-afff-e957886d1854.JPG"
@@ -714,8 +682,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-43",
-        "name":  "Perforated Slip-On - Beige (STYLE 43)",
+        "id":  "shoe-41",
+        "name":  "Perforated Slip-On - Beige Style# 041",
         "image":  "71e947e3-0d58-492e-b4d5-21a5617ca9f0.JPG",
         "images":  [
                        "71e947e3-0d58-492e-b4d5-21a5617ca9f0.JPG"
@@ -731,8 +699,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-44",
-        "name":  "Leather Mule - Stone Gray (STYLE 44)",
+        "id":  "shoe-42",
+        "name":  "Leather Mule - Stone Gray Style# 042",
         "image":  "734dcfdf-89f5-4f5a-a872-b0f36c1c8b06.JPG",
         "images":  [
                        "734dcfdf-89f5-4f5a-a872-b0f36c1c8b06.JPG"
@@ -748,8 +716,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-45",
-        "name":  "Woven Loafer - Black \u0026 Gold (STYLE 45)",
+        "id":  "shoe-43",
+        "name":  "Woven Loafer - Black \u0026 Gold Style# 043",
         "image":  "76716c9c-7742-4e0c-81ae-ce93aab9ee18.JPG",
         "images":  [
                        "76716c9c-7742-4e0c-81ae-ce93aab9ee18.JPG"
@@ -765,8 +733,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-46",
-        "name":  "Croco Embossed Sneaker - Cream (STYLE 46)",
+        "id":  "shoe-44",
+        "name":  "Croco Embossed Sneaker - Cream Style# 044",
         "image":  "7ca6abad-7e3b-4bbf-a251-ca3562f963ca.JPG",
         "images":  [
                        "7ca6abad-7e3b-4bbf-a251-ca3562f963ca.JPG"
@@ -782,8 +750,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-47",
-        "name":  "Suede Cap-Toe Flat - Taupe (STYLE 47)",
+        "id":  "shoe-45",
+        "name":  "Suede Cap-Toe Flat - Taupe Style# 045",
         "image":  "7f4bb7fd-1728-4163-b89c-1ab520bbcdb9.JPG",
         "images":  [
                        "7f4bb7fd-1728-4163-b89c-1ab520bbcdb9.JPG"
@@ -799,8 +767,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-48",
-        "name":  "Penny Loafer - Chestnut (STYLE 48)",
+        "id":  "shoe-46",
+        "name":  "Penny Loafer - Chestnut Style# 046",
         "image":  "7fb5c8e9-09ff-45b3-8d6e-bc5842bb0d00.JPG",
         "images":  [
                        "7fb5c8e9-09ff-45b3-8d6e-bc5842bb0d00.JPG"
@@ -816,8 +784,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-49",
-        "name":  "Woven Sneaker - Ivory \u0026 Caramel (STYLE 49)",
+        "id":  "shoe-47",
+        "name":  "Woven Sneaker - Ivory \u0026 Caramel Style# 047",
         "image":  "81ea8e62-9978-496c-b285-c8d3e422e565.JPG",
         "images":  [
                        "81ea8e62-9978-496c-b285-c8d3e422e565.JPG"
@@ -833,8 +801,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-50",
-        "name":  "Leather Monk Strap - Deep Brown (STYLE 50)",
+        "id":  "shoe-48",
+        "name":  "Leather Monk Strap - Deep Brown Style# 048",
         "image":  "848e0ffe-1d4d-49e2-adfb-e3a9a2ef1c03.JPG",
         "images":  [
                        "848e0ffe-1d4d-49e2-adfb-e3a9a2ef1c03.JPG"
@@ -850,8 +818,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-51",
-        "name":  "Croco Penny Loafer - Amber Suede (STYLE 51)",
+        "id":  "shoe-49",
+        "name":  "Croco Penny Loafer - Amber Suede Style# 049",
         "image":  "89a8218f-90e8-477f-bcef-878779d6c32f.JPG",
         "images":  [
                        "89a8218f-90e8-477f-bcef-878779d6c32f.JPG"
@@ -867,8 +835,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-52",
-        "name":  "Croco Mary Jane Sneaker - Black Suede (STYLE 52)",
+        "id":  "shoe-50",
+        "name":  "Croco Mary Jane Sneaker - Black Suede Style# 050",
         "image":  "8dd964b6-bbd7-4d40-bd8b-155ee5fc07c8.JPG",
         "images":  [
                        "8dd964b6-bbd7-4d40-bd8b-155ee5fc07c8.JPG"
@@ -884,10 +852,11 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-53",
-        "name":  "Bow-Lace Suede Sneaker - Red \u0026 White (STYLE 53)",
-        "image":  "95559bf1-2ad7-478d-a65b-4a4d6e032761.JPG",
+        "id":  "shoe-51",
+        "name":  "Bow-Lace Suede Sneaker - Red \u0026 White Style# 051",
+        "image":  "12e78d38-e152-46a8-88b1-ec1503dc9bfd.JPG",
         "images":  [
+                       "12e78d38-e152-46a8-88b1-ec1503dc9bfd.JPG",
                        "95559bf1-2ad7-478d-a65b-4a4d6e032761.JPG"
                    ],
         "materials":  "Turkish leather upper and synthetic sole",
@@ -901,8 +870,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-54",
-        "name":  "Studded Fringe Loafer - Tan Suede (STYLE 54)",
+        "id":  "shoe-52",
+        "name":  "Studded Fringe Loafer - Tan Suede Style# 052",
         "image":  "9a6e7512-a95e-41da-a1cc-66f90ed9300e.JPG",
         "images":  [
                        "9a6e7512-a95e-41da-a1cc-66f90ed9300e.JPG",
@@ -919,8 +888,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-55",
-        "name":  "Patent Tassel Mary Jane - Sage (STYLE 55)",
+        "id":  "shoe-53",
+        "name":  "Patent Tassel Mary Jane - Sage Style# 053",
         "image":  "a3759775-331f-48e5-93ee-84d5491023e9.JPG",
         "images":  [
                        "a3759775-331f-48e5-93ee-84d5491023e9.JPG"
@@ -936,8 +905,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-56",
-        "name":  "V-Stripe Leather Sneaker - Dark Brown (STYLE 56)",
+        "id":  "shoe-54",
+        "name":  "V-Stripe Leather Sneaker - Dark Brown Style# 054",
         "image":  "a546bf08-4011-4493-9b6f-70d8e8003e02.JPG",
         "images":  [
                        "a546bf08-4011-4493-9b6f-70d8e8003e02.JPG"
@@ -953,8 +922,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-57",
-        "name":  "Lace-Up Leather Sneaker - White \u0026 Tan (STYLE 57)",
+        "id":  "shoe-55",
+        "name":  "Lace-Up Leather Sneaker - White \u0026 Tan Style# 055",
         "image":  "a55aad54-cebe-49a1-8d20-7afa94390a71.JPG",
         "images":  [
                        "a55aad54-cebe-49a1-8d20-7afa94390a71.JPG"
@@ -970,8 +939,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-58",
-        "name":  "Croco Mary Jane Sneaker - Black Patent (STYLE 58)",
+        "id":  "shoe-56",
+        "name":  "Croco Mary Jane Sneaker - Black Patent Style# 056",
         "image":  "a81110df-325a-4936-a1a6-9f72030f76c8.JPG",
         "images":  [
                        "a81110df-325a-4936-a1a6-9f72030f76c8.JPG"
@@ -987,8 +956,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-59",
-        "name":  "Moccasin Penny Loafer - Camel Suede (STYLE 59)",
+        "id":  "shoe-57",
+        "name":  "Moccasin Penny Loafer - Camel Suede Style# 057",
         "image":  "a85461d3-156b-43d4-aa37-24fa5dbc1dab.JPG",
         "images":  [
                        "a85461d3-156b-43d4-aa37-24fa5dbc1dab.JPG"
@@ -1004,8 +973,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-60",
-        "name":  "Mesh Mary Jane - Mustard (STYLE 60)",
+        "id":  "shoe-58",
+        "name":  "Mesh Mary Jane - Mustard Style# 058",
         "image":  "a9c53a6e-3089-4920-b4cc-92b55b2575f0.JPG",
         "images":  [
                        "a9c53a6e-3089-4920-b4cc-92b55b2575f0.JPG",
@@ -1022,8 +991,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-61",
-        "name":  "Moccasin Penny Loafer - Sand Suede (STYLE 61)",
+        "id":  "shoe-59",
+        "name":  "Moccasin Penny Loafer - Sand Suede Style# 059",
         "image":  "af779c34-bc20-4e08-b2c3-ab3998b70c60.JPG",
         "images":  [
                        "af779c34-bc20-4e08-b2c3-ab3998b70c60.JPG"
@@ -1039,8 +1008,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-62",
-        "name":  "T-Bar Buckle Sneaker - Chocolate Suede (STYLE 62)",
+        "id":  "shoe-60",
+        "name":  "T-Bar Buckle Sneaker - Chocolate Suede Style# 060",
         "image":  "afa2de2b-be45-4b8b-a0cd-b21bf8a26bd0.JPG",
         "images":  [
                        "afa2de2b-be45-4b8b-a0cd-b21bf8a26bd0.JPG"
@@ -1056,8 +1025,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-63",
-        "name":  "Moccasin Loafer - Cognac Suede (STYLE 63)",
+        "id":  "shoe-61",
+        "name":  "Moccasin Loafer - Cognac Suede Style# 061",
         "image":  "b0f3a59c-689d-47d8-b5cb-5fbd8cf53cf3.JPG",
         "images":  [
                        "b0f3a59c-689d-47d8-b5cb-5fbd8cf53cf3.JPG"
@@ -1073,12 +1042,12 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-64",
-        "name":  "Woven Leather Sneaker - Black (STYLE 64)",
+        "id":  "shoe-62",
+        "name":  "Woven Leather Sneaker - Black Style# 062",
         "image":  "b162e7cf-aad9-454d-a178-92179250e016.JPG",
         "images":  [
                        "b162e7cf-aad9-454d-a178-92179250e016.JPG",
-                       "bb25588e-ce06-447a-a5c1-8e5ac6f82592.JPG"
+                       "c011ac9e-ef44-4c3a-915b-f82d602ef303.JPG"
                    ],
         "materials":  "Turkish leather upper and synthetic sole",
         "sizes":  "EU 36-40",
@@ -1091,8 +1060,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-65",
-        "name":  "Raffia Panel Loafer - Cognac Suede (STYLE 65)",
+        "id":  "shoe-63",
+        "name":  "Raffia Panel Loafer - Cognac Suede Style# 063",
         "image":  "b240f127-1691-4a33-b7ee-5898ed70e439.JPG",
         "images":  [
                        "b240f127-1691-4a33-b7ee-5898ed70e439.JPG"
@@ -1108,8 +1077,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-66",
-        "name":  "Suede Lace Boat Shoe - Tan (STYLE 66)",
+        "id":  "shoe-64",
+        "name":  "Suede Lace Boat Shoe - Tan Style# 064",
         "image":  "b33f2e47-f998-4187-a08b-40e297e030d7.JPG",
         "images":  [
                        "b33f2e47-f998-4187-a08b-40e297e030d7.JPG"
@@ -1125,8 +1094,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-67",
-        "name":  "V-Stripe Suede Runner - Taupe (STYLE 67)",
+        "id":  "shoe-65",
+        "name":  "V-Stripe Suede Runner - Taupe Style# 065",
         "image":  "b509462c-8e2e-45dd-8ad5-c5b842802024.JPG",
         "images":  [
                        "b509462c-8e2e-45dd-8ad5-c5b842802024.JPG",
@@ -1144,8 +1113,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-68",
-        "name":  "Pebbled Leather Loafer - Cream (STYLE 68)",
+        "id":  "shoe-66",
+        "name":  "Pebbled Leather Loafer - Cream Style# 066",
         "image":  "b86c315c-82e9-40ef-a966-7332db453ab8.JPG",
         "images":  [
                        "b86c315c-82e9-40ef-a966-7332db453ab8.JPG"
@@ -1161,8 +1130,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-69",
-        "name":  "Leather Mary Jane - Cognac (STYLE 69)",
+        "id":  "shoe-67",
+        "name":  "Leather Mary Jane - Cognac Style# 067",
         "image":  "bbc24a6f-ca17-4eab-859b-3924dadd5cd6.JPG",
         "images":  [
                        "bbc24a6f-ca17-4eab-859b-3924dadd5cd6.JPG"
@@ -1178,8 +1147,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-70",
-        "name":  "Beaded Boat Shoe - Sand Suede (STYLE 70)",
+        "id":  "shoe-68",
+        "name":  "Beaded Boat Shoe - Sand Suede Style# 068",
         "image":  "bfe17e73-0912-4779-bcec-1a9eeb8e1047.JPG",
         "images":  [
                        "bfe17e73-0912-4779-bcec-1a9eeb8e1047.JPG"
@@ -1195,28 +1164,14 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-71",
-        "name":  "Woven Runner Sneaker - Black (STYLE 71)",
-        "image":  "c011ac9e-ef44-4c3a-915b-f82d602ef303.JPG",
-        "images":  [
-                       "c011ac9e-ef44-4c3a-915b-f82d602ef303.JPG"
-                   ],
-        "materials":  "Turkish leather upper and synthetic sole",
-        "sizes":  "EU 36-40",
-        "care":  "Use leather conditioner and soft cloth; avoid moisture",
-        "lead_time":  "Price on request",
-        "moq":  "Price on request",
-        "price":  "Price on request",
-        "category":  "women",
-        "new":  false,
-        "bestSeller":  false
-    },
-    {
-        "id":  "shoe-72",
-        "name":  "Moccasin Penny Loafer - Espresso (STYLE 72)",
+        "id":  "shoe-69",
+        "name":  "Moccasin Penny Loafer - Espresso Suede Style# 069",
         "image":  "c33e8e50-1265-49da-84c4-ec24756793c8.JPG",
         "images":  [
-                       "c33e8e50-1265-49da-84c4-ec24756793c8.JPG"
+                       "c33e8e50-1265-49da-84c4-ec24756793c8.JPG",
+                       "d71b51b6-c590-4b4b-85b7-cc94b914a5e4.JPG",
+                       "d9993ab9-be68-4f63-99c5-b7f84987db59.JPG",
+                       "e5632ce1-57fb-4988-9b4c-c7f8416849e2.JPG"
                    ],
         "materials":  "Turkish leather upper and synthetic sole",
         "sizes":  "EU 36-40",
@@ -1229,8 +1184,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-73",
-        "name":  "Perforated Suede Lace-Up - Black (STYLE 73)",
+        "id":  "shoe-70",
+        "name":  "Perforated Suede Lace-Up - Black Style# 070",
         "image":  "c637b7d2-d9b8-43f7-96e0-796385d0cdd4.JPG",
         "images":  [
                        "c637b7d2-d9b8-43f7-96e0-796385d0cdd4.JPG"
@@ -1246,25 +1201,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-74",
-        "name":  "Beaded Kiltie Loafer - Cognac (STYLE 74)",
-        "image":  "ca3448e7-0be2-4c4a-9399-5c20ac7a24e6.JPG",
-        "images":  [
-                       "ca3448e7-0be2-4c4a-9399-5c20ac7a24e6.JPG"
-                   ],
-        "materials":  "Turkish leather upper and synthetic sole",
-        "sizes":  "EU 36-40",
-        "care":  "Use leather conditioner and soft cloth; avoid moisture",
-        "lead_time":  "Price on request",
-        "moq":  "Price on request",
-        "price":  "Price on request",
-        "category":  "women",
-        "new":  false,
-        "bestSeller":  false
-    },
-    {
-        "id":  "shoe-75",
-        "name":  "Mesh Leather Sneaker - Royal Blue (STYLE 75)",
+        "id":  "shoe-71",
+        "name":  "Mesh Leather Sneaker - Royal Blue Style# 071",
         "image":  "caecfc56-d638-412c-87aa-d31861c9fd6c.JPG",
         "images":  [
                        "caecfc56-d638-412c-87aa-d31861c9fd6c.JPG"
@@ -1280,8 +1218,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-76",
-        "name":  "Woven Mary Jane Sneaker - Dark Brown (STYLE 76)",
+        "id":  "shoe-72",
+        "name":  "Woven Mary Jane Sneaker - Dark Brown Style# 072",
         "image":  "d0b6e24e-9137-497e-80fc-6b575b2094a3.JPG",
         "images":  [
                        "d0b6e24e-9137-497e-80fc-6b575b2094a3.JPG"
@@ -1297,25 +1235,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-77",
-        "name":  "Python Panel Sneaker - Black (STYLE 77)",
-        "image":  "d2a0a3a1-3570-4a46-b20f-3274afe51b3d.JPG",
-        "images":  [
-                       "d2a0a3a1-3570-4a46-b20f-3274afe51b3d.JPG"
-                   ],
-        "materials":  "Turkish leather upper and synthetic sole",
-        "sizes":  "EU 36-40",
-        "care":  "Use leather conditioner and soft cloth; avoid moisture",
-        "lead_time":  "Price on request",
-        "moq":  "Price on request",
-        "price":  "Price on request",
-        "category":  "women",
-        "new":  false,
-        "bestSeller":  false
-    },
-    {
-        "id":  "shoe-78",
-        "name":  "Suede Penny Loafer - Stone (STYLE 78)",
+        "id":  "shoe-73",
+        "name":  "Suede Penny Loafer - Stone Style# 073",
         "image":  "d539865b-52bf-4104-bdf7-2556a7d94f82.JPG",
         "images":  [
                        "d539865b-52bf-4104-bdf7-2556a7d94f82.JPG"
@@ -1331,59 +1252,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-79",
-        "name":  "Woven Leather Loafer - Cognac (STYLE 79)",
-        "image":  "d629e765-e959-451e-9bc7-d4a246171e36.JPG",
-        "images":  [
-                       "d629e765-e959-451e-9bc7-d4a246171e36.JPG"
-                   ],
-        "materials":  "Turkish leather upper and synthetic sole",
-        "sizes":  "EU 36-40",
-        "care":  "Use leather conditioner and soft cloth; avoid moisture",
-        "lead_time":  "Price on request",
-        "moq":  "Price on request",
-        "price":  "Price on request",
-        "category":  "women",
-        "new":  false,
-        "bestSeller":  false
-    },
-    {
-        "id":  "shoe-80",
-        "name":  "Moccasin Penny Loafer - Espresso Suede (STYLE 80)",
-        "image":  "d71b51b6-c590-4b4b-85b7-cc94b914a5e4.JPG",
-        "images":  [
-                       "d71b51b6-c590-4b4b-85b7-cc94b914a5e4.JPG"
-                   ],
-        "materials":  "Turkish leather upper and synthetic sole",
-        "sizes":  "EU 36-40",
-        "care":  "Use leather conditioner and soft cloth; avoid moisture",
-        "lead_time":  "Price on request",
-        "moq":  "Price on request",
-        "price":  "Price on request",
-        "category":  "women",
-        "new":  false,
-        "bestSeller":  false
-    },
-    {
-        "id":  "shoe-81",
-        "name":  "Classic Moccasin Loafer - Dark Espresso (STYLE 81)",
-        "image":  "d9993ab9-be68-4f63-99c5-b7f84987db59.JPG",
-        "images":  [
-                       "d9993ab9-be68-4f63-99c5-b7f84987db59.JPG"
-                   ],
-        "materials":  "Turkish leather upper and synthetic sole",
-        "sizes":  "EU 36-40",
-        "care":  "Use leather conditioner and soft cloth; avoid moisture",
-        "lead_time":  "Price on request",
-        "moq":  "Price on request",
-        "price":  "Price on request",
-        "category":  "women",
-        "new":  false,
-        "bestSeller":  false
-    },
-    {
-        "id":  "shoe-82",
-        "name":  "Tassel Loafer - Cognac Suede (STYLE 82)",
+        "id":  "shoe-74",
+        "name":  "Tassel Loafer - Cognac Suede Style# 074",
         "image":  "dacd183d-bb4e-4470-8502-18e12fc7420a.JPG",
         "images":  [
                        "dacd183d-bb4e-4470-8502-18e12fc7420a.JPG"
@@ -1399,25 +1269,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-83",
-        "name":  "Moccasin Penny Loafer - Deep Brown (STYLE 83)",
-        "image":  "e5632ce1-57fb-4988-9b4c-c7f8416849e2.JPG",
-        "images":  [
-                       "e5632ce1-57fb-4988-9b4c-c7f8416849e2.JPG"
-                   ],
-        "materials":  "Turkish leather upper and synthetic sole",
-        "sizes":  "EU 36-40",
-        "care":  "Use leather conditioner and soft cloth; avoid moisture",
-        "lead_time":  "Price on request",
-        "moq":  "Price on request",
-        "price":  "Price on request",
-        "category":  "women",
-        "new":  false,
-        "bestSeller":  false
-    },
-    {
-        "id":  "shoe-84",
-        "name":  "Patent Tassel Mary Jane - Brown (STYLE 84)",
+        "id":  "shoe-75",
+        "name":  "Patent Tassel Mary Jane - Brown Style# 075",
         "image":  "eddc4a6f-c019-4cfc-a315-486b7c7aea0f.JPG",
         "images":  [
                        "eddc4a6f-c019-4cfc-a315-486b7c7aea0f.JPG"
@@ -1433,8 +1286,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-85",
-        "name":  "Studded Fringe Loafer - Black Suede (STYLE 85)",
+        "id":  "shoe-76",
+        "name":  "Studded Fringe Loafer - Black Suede Style# 076",
         "image":  "eddd8734-3d48-4af4-b0cc-9cf12ce5fced.JPG",
         "images":  [
                        "eddd8734-3d48-4af4-b0cc-9cf12ce5fced.JPG"
@@ -1450,8 +1303,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-86",
-        "name":  "Perforated T-Bar Sneaker - Camel Suede (STYLE 86)",
+        "id":  "shoe-77",
+        "name":  "Perforated T-Bar Sneaker - Camel Suede Style# 077",
         "image":  "f3ab9ebb-d47e-4f04-b97a-7e9b71974005.JPG",
         "images":  [
                        "f3ab9ebb-d47e-4f04-b97a-7e9b71974005.JPG"
@@ -1467,8 +1320,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-87",
-        "name":  "Patent Tassel Mary Jane - Nude (STYLE 87)",
+        "id":  "shoe-78",
+        "name":  "Patent Tassel Mary Jane - Nude Style# 078",
         "image":  "fb108bb3-0884-43fa-8d7b-6b63db620291.JPG",
         "images":  [
                        "fb108bb3-0884-43fa-8d7b-6b63db620291.JPG"
@@ -1484,8 +1337,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-88",
-        "name":  "Mesh Leather Sneaker - White \u0026 Silver (STYLE 88)",
+        "id":  "shoe-79",
+        "name":  "Mesh Leather Sneaker - White \u0026 Silver Style# 079",
         "image":  "fd237e0c-478f-4a74-a35c-e502b09c6d2e.JPG",
         "images":  [
                        "fd237e0c-478f-4a74-a35c-e502b09c6d2e.JPG"
@@ -1501,8 +1354,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-89",
-        "name":  "T-Bar Moccasin Sneaker - Cognac Suede (STYLE 89)",
+        "id":  "shoe-80",
+        "name":  "T-Bar Moccasin Sneaker - Cognac Suede Style# 080",
         "image":  "243ed9db-2d86-4af1-8e59-3d25f987df38.JPG",
         "images":  [
                        "243ed9db-2d86-4af1-8e59-3d25f987df38.JPG"
@@ -1518,8 +1371,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-90",
-        "name":  "Two-Tone Suede Runner - Brown \u0026 Tan (STYLE 90)",
+        "id":  "shoe-81",
+        "name":  "Two-Tone Suede Runner - Brown \u0026 Tan Style# 081",
         "image":  "ab845a79-3792-4a6d-884b-12dde3e1f881.JPG",
         "images":  [
                        "ab845a79-3792-4a6d-884b-12dde3e1f881.JPG"
@@ -1535,8 +1388,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-91",
-        "name":  "Mesh Runner Sneaker - Taupe (STYLE 91)",
+        "id":  "shoe-82",
+        "name":  "Mesh Runner Sneaker - Taupe Style# 082",
         "image":  "e274715d-c80d-4671-8591-e415a86d1f50.JPG",
         "images":  [
                        "e274715d-c80d-4671-8591-e415a86d1f50.JPG"
@@ -1552,8 +1405,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-92",
-        "name":  "Mesh Mary Jane Flat - Emerald Green (STYLE 92)",
+        "id":  "shoe-83",
+        "name":  "Mesh Mary Jane Flat - Emerald Green Style# 083",
         "image":  "ee2668bb-2fa1-4c03-bb2b-ffee294f497a.JPG",
         "images":  [
                        "ee2668bb-2fa1-4c03-bb2b-ffee294f497a.JPG"
@@ -1569,25 +1422,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-93",
-        "name":  "Red Suede Bow Sneaker (STYLE 93)",
-        "image":  "12e78d38-e152-46a8-88b1-ec1503dc9bfd.JPG",
-        "images":  [
-                       "12e78d38-e152-46a8-88b1-ec1503dc9bfd.JPG"
-                   ],
-        "materials":  "Turkish leather upper and synthetic sole",
-        "sizes":  "EU 36-40",
-        "care":  "Use leather conditioner and soft cloth; avoid moisture",
-        "lead_time":  "Price on request",
-        "moq":  "Price on request",
-        "price":  "Price on request",
-        "category":  "women",
-        "new":  false,
-        "bestSeller":  false
-    },
-    {
-        "id":  "shoe-94",
-        "name":  "Dark Brown Beaded Boat Shoe (STYLE 94)",
+        "id":  "shoe-84",
+        "name":  "Dark Brown Beaded Boat Shoe Style# 084",
         "image":  "14b99dd3-0267-47aa-95d1-9af7ce424dc1.JPG",
         "images":  [
                        "14b99dd3-0267-47aa-95d1-9af7ce424dc1.JPG"
@@ -1603,8 +1439,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-95",
-        "name":  "Black Leather Mary Jane - Gum Sole (STYLE 95)",
+        "id":  "shoe-85",
+        "name":  "Black Leather Mary Jane - Gum Sole Style# 085",
         "image":  "1675931b-920e-4f3b-96a4-0cc1d0d175db.JPG",
         "images":  [
                        "1675931b-920e-4f3b-96a4-0cc1d0d175db.JPG",
@@ -1621,8 +1457,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-96",
-        "name":  "Tan Suede Lace-Up Boat Shoe (STYLE 96)",
+        "id":  "shoe-86",
+        "name":  "Tan Suede Lace-Up Boat Shoe Style# 086",
         "image":  "19e50a36-4a8d-446c-8970-b41bb2792df8.JPG",
         "images":  [
                        "19e50a36-4a8d-446c-8970-b41bb2792df8.JPG"
@@ -1638,8 +1474,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-97",
-        "name":  "Navy Suede Penny Loafer (STYLE 97)",
+        "id":  "shoe-87",
+        "name":  "Navy Suede Penny Loafer Style# 087",
         "image":  "289650c2-0ebd-4e9d-976c-c93c98e1b70d.JPG",
         "images":  [
                        "289650c2-0ebd-4e9d-976c-c93c98e1b70d.JPG"
@@ -1655,25 +1491,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-98",
-        "name":  "Brown Perforated Monk Strap Sneaker (STYLE 98)",
-        "image":  "2a977033-7cba-46db-8d4f-d3e8a7a80d04.JPG",
-        "images":  [
-                       "2a977033-7cba-46db-8d4f-d3e8a7a80d04.JPG"
-                   ],
-        "materials":  "Turkish leather upper and synthetic sole",
-        "sizes":  "EU 36-40",
-        "care":  "Use leather conditioner and soft cloth; avoid moisture",
-        "lead_time":  "Price on request",
-        "moq":  "Price on request",
-        "price":  "Price on request",
-        "category":  "women",
-        "new":  false,
-        "bestSeller":  false
-    },
-    {
-        "id":  "shoe-99",
-        "name":  "Brown Woven Suede Mary Jane (STYLE 99)",
+        "id":  "shoe-88",
+        "name":  "Brown Woven Suede Mary Jane Style# 088",
         "image":  "41a2def6-7aff-49a7-b7f0-388122973f69.JPG",
         "images":  [
                        "41a2def6-7aff-49a7-b7f0-388122973f69.JPG"
@@ -1689,8 +1508,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-100",
-        "name":  "Dark Brown Raffia Woven Mule (STYLE 100)",
+        "id":  "shoe-89",
+        "name":  "Dark Brown Raffia Woven Mule Style# 089",
         "image":  "50bd2291-ae7d-4c14-88ee-32fe34a255f2.JPG",
         "images":  [
                        "50bd2291-ae7d-4c14-88ee-32fe34a255f2.JPG"
@@ -1706,8 +1525,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-101",
-        "name":  "Dark Brown Croco Penny Loafer Mule (STYLE 101)",
+        "id":  "shoe-90",
+        "name":  "Dark Brown Croco Penny Loafer Mule Style# 090",
         "image":  "5f93ebbb-9181-4dc2-b48b-155fa6f75d2c.JPG",
         "images":  [
                        "5f93ebbb-9181-4dc2-b48b-155fa6f75d2c.JPG"
@@ -1723,8 +1542,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-102",
-        "name":  "All-Black Suede Leather Sneaker (STYLE 102)",
+        "id":  "shoe-91",
+        "name":  "All-Black Suede Leather Sneaker Style# 091",
         "image":  "67d8b35f-f4a4-421f-8cc4-7b28ec904051.JPG",
         "images":  [
                        "67d8b35f-f4a4-421f-8cc4-7b28ec904051.JPG"
@@ -1740,8 +1559,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-103",
-        "name":  "Camel Woven Leather Runner Sneaker (STYLE 103)",
+        "id":  "shoe-92",
+        "name":  "Camel Woven Leather Runner Sneaker Style# 092",
         "image":  "7eed9f74-e8ec-4d97-b2b6-0262ebccc2ed.JPG",
         "images":  [
                        "7eed9f74-e8ec-4d97-b2b6-0262ebccc2ed.JPG"
@@ -1757,8 +1576,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-104",
-        "name":  "Burgundy Suede Runner Sneaker (STYLE 104)",
+        "id":  "shoe-93",
+        "name":  "Burgundy Suede Runner Sneaker Style# 093",
         "image":  "7f2a99a2-5338-43a2-8220-4a75730d87c5.JPG",
         "images":  [
                        "7f2a99a2-5338-43a2-8220-4a75730d87c5.JPG"
@@ -1774,8 +1593,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-105",
-        "name":  "Black Patent Lace-Up Boat Shoe (STYLE 105)",
+        "id":  "shoe-94",
+        "name":  "Black Patent Lace-Up Boat Shoe Style# 094",
         "image":  "7732e441-b8e4-4e3b-aabd-7dcbd05007cc.JPG",
         "images":  [
                        "7732e441-b8e4-4e3b-aabd-7dcbd05007cc.JPG",
@@ -1792,8 +1611,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-106",
-        "name":  "Taupe Suede Raffia Inset Loafer (STYLE 106)",
+        "id":  "shoe-95",
+        "name":  "Taupe Suede Raffia Inset Loafer Style# 095",
         "image":  "8652fd78-f8da-4084-a884-c74f2d086951.JPG",
         "images":  [
                        "8652fd78-f8da-4084-a884-c74f2d086951.JPG"
@@ -1809,8 +1628,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-107",
-        "name":  "Navy Suede Tassel Loafer (STYLE 107)",
+        "id":  "shoe-96",
+        "name":  "Navy Suede Tassel Loafer Style# 096",
         "image":  "87255d68-1523-464b-9233-38291d61945d.JPG",
         "images":  [
                        "87255d68-1523-464b-9233-38291d61945d.JPG"
@@ -1826,8 +1645,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-108",
-        "name":  "Tan Croco Beaded Boat Shoe (STYLE 108)",
+        "id":  "shoe-97",
+        "name":  "Tan Croco Beaded Boat Shoe Style# 097",
         "image":  "8bc47236-442c-4bf2-a879-24b75b0b9579.JPG",
         "images":  [
                        "8bc47236-442c-4bf2-a879-24b75b0b9579.JPG"
@@ -1843,8 +1662,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-109",
-        "name":  "Taupe Suede Double-Stripe Sneaker (STYLE 109)",
+        "id":  "shoe-98",
+        "name":  "Taupe Suede Double-Stripe Sneaker Style# 098",
         "image":  "8fb8e060-08f5-4fe2-8df3-a7d7cc6e20c0.JPG",
         "images":  [
                        "8fb8e060-08f5-4fe2-8df3-a7d7cc6e20c0.JPG"
@@ -1860,8 +1679,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-110",
-        "name":  "Dark Brown Python Panel Sneaker (STYLE 110)",
+        "id":  "shoe-99",
+        "name":  "Dark Brown Python Panel Sneaker Style# 099",
         "image":  "9321b8b3-2674-460a-916f-80dabec3fdf2.JPG",
         "images":  [
                        "9321b8b3-2674-460a-916f-80dabec3fdf2.JPG"
@@ -1877,8 +1696,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-111",
-        "name":  "Brown Cream Suede Bow Sneaker (STYLE 111)",
+        "id":  "shoe-100",
+        "name":  "Bow-Lace Suede Sneaker - Brown \u0026 Cream Style# 100",
         "image":  "936d0be7-747a-4879-a76f-6e5e1e3b7872.JPG",
         "images":  [
                        "936d0be7-747a-4879-a76f-6e5e1e3b7872.JPG",
@@ -1895,8 +1714,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-112",
-        "name":  "Tan Perforated Suede Mary Jane (STYLE 112)",
+        "id":  "shoe-101",
+        "name":  "Tan Perforated Suede Mary Jane Style# 101",
         "image":  "96e40dae-b86d-40da-8a71-43abbbddcdb2.JPG",
         "images":  [
                        "96e40dae-b86d-40da-8a71-43abbbddcdb2.JPG"
@@ -1912,8 +1731,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-113",
-        "name":  "Brown Suede Beaded Boat Shoe (STYLE 113)",
+        "id":  "shoe-102",
+        "name":  "Brown Suede Beaded Boat Shoe Style# 102",
         "image":  "9c1215c4-8198-4505-b0ad-252831ac04e8.JPG",
         "images":  [
                        "9c1215c4-8198-4505-b0ad-252831ac04e8.JPG"
@@ -1929,8 +1748,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-114",
-        "name":  "Gray Suede Silver-Bead Boat Shoe (STYLE 114)",
+        "id":  "shoe-103",
+        "name":  "Gray Suede Silver-Bead Boat Shoe Style# 103",
         "image":  "9d66036b-b426-4d0b-95d0-69f35829ff21.JPG",
         "images":  [
                        "9d66036b-b426-4d0b-95d0-69f35829ff21.JPG"
@@ -1946,8 +1765,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-115",
-        "name":  "Taupe Python-Accent Sneaker (STYLE 115)",
+        "id":  "shoe-104",
+        "name":  "Taupe Python-Accent Sneaker Style# 104",
         "image":  "a8f0a1d1-0036-46a3-b4e3-b5ef175a6f56.JPG",
         "images":  [
                        "a8f0a1d1-0036-46a3-b4e3-b5ef175a6f56.JPG"
@@ -1963,8 +1782,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-116",
-        "name":  "Mustard Yellow Perforated Mary Jane (STYLE 116)",
+        "id":  "shoe-105",
+        "name":  "Mustard Yellow Perforated Mary Jane Style# 105",
         "image":  "a9d29c89-a23a-486e-9bed-9eaf1e7e74f1.JPG",
         "images":  [
                        "a9d29c89-a23a-486e-9bed-9eaf1e7e74f1.JPG"
@@ -1980,8 +1799,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-117",
-        "name":  "Black White Python Sneaker (STYLE 117)",
+        "id":  "shoe-106",
+        "name":  "Black White Python Sneaker Style# 106",
         "image":  "ad4187b2-c87e-4b4e-849b-fe46e534c1f7.JPG",
         "images":  [
                        "ad4187b2-c87e-4b4e-849b-fe46e534c1f7.JPG"
@@ -1997,8 +1816,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-118",
-        "name":  "Brown Croco Suede Mary Jane (STYLE 118)",
+        "id":  "shoe-107",
+        "name":  "Brown Croco Suede Mary Jane Style# 107",
         "image":  "b29be0b0-139a-4830-a67b-5b1cecde1049.JPG",
         "images":  [
                        "b29be0b0-139a-4830-a67b-5b1cecde1049.JPG"
@@ -2014,8 +1833,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-119",
-        "name":  "Black Patent Croco Mary Jane (STYLE 119)",
+        "id":  "shoe-108",
+        "name":  "Black Patent Croco Mary Jane Style# 108",
         "image":  "b4a51640-c856-40c6-8e2e-db286eefe71b.JPG",
         "images":  [
                        "b4a51640-c856-40c6-8e2e-db286eefe71b.JPG"
@@ -2031,8 +1850,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-120",
-        "name":  "White Perforated Leather Sneaker (STYLE 120)",
+        "id":  "shoe-109",
+        "name":  "White Perforated Leather Sneaker Style# 109",
         "image":  "b87ad036-3b4a-47ba-bedd-3953b6e57f08.JPG",
         "images":  [
                        "b87ad036-3b4a-47ba-bedd-3953b6e57f08.JPG"
@@ -2048,8 +1867,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-121",
-        "name":  "Green Cream Orange-Collar Sneaker (STYLE 121)",
+        "id":  "shoe-110",
+        "name":  "Green Cream Orange-Collar Sneaker Style# 110",
         "image":  "b9ab38ce-7c77-4601-aabf-6361f6cdee55.JPG",
         "images":  [
                        "b9ab38ce-7c77-4601-aabf-6361f6cdee55.JPG"
@@ -2065,8 +1884,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-122",
-        "name":  "Dark Brown Croco Mary Jane (STYLE 122)",
+        "id":  "shoe-111",
+        "name":  "Dark Brown Croco Mary Jane Style# 111",
         "image":  "b9ee1fb4-c75e-4cf4-af50-025eb19d5deb.JPG",
         "images":  [
                        "b9ee1fb4-c75e-4cf4-af50-025eb19d5deb.JPG"
@@ -2082,8 +1901,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-123",
-        "name":  "Cobalt Blue Leather Mesh Sneaker (STYLE 123)",
+        "id":  "shoe-112",
+        "name":  "Cobalt Blue Leather Mesh Sneaker Style# 112",
         "image":  "bb0162fa-68a9-4e72-a012-615e4018bf90.JPG",
         "images":  [
                        "bb0162fa-68a9-4e72-a012-615e4018bf90.JPG"
@@ -2099,8 +1918,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-124",
-        "name":  "Tan Suede Mesh Runner Sneaker (STYLE 124)",
+        "id":  "shoe-113",
+        "name":  "Tan Suede Mesh Runner Sneaker Style# 113",
         "image":  "ccccc8d3-8a0a-4184-bad6-1d0301cf7110.JPG",
         "images":  [
                        "ccccc8d3-8a0a-4184-bad6-1d0301cf7110.JPG",
@@ -2117,8 +1936,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-125",
-        "name":  "Dark Brown Croco Loafer with Gold Hardware (STYLE 125)",
+        "id":  "shoe-114",
+        "name":  "Dark Brown Croco Loafer with Gold Hardware Style# 114",
         "image":  "cd39fdaa-2b0d-4144-b5e2-8c9d1d9ccc14.JPG",
         "images":  [
                        "cd39fdaa-2b0d-4144-b5e2-8c9d1d9ccc14.JPG"
@@ -2134,8 +1953,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-126",
-        "name":  "Red Suede Raffia Woven Mule (STYLE 126)",
+        "id":  "shoe-115",
+        "name":  "Red Suede Raffia Woven Mule Style# 115",
         "image":  "d35edd27-2aa9-4067-b35d-5796a8b4f773.JPG",
         "images":  [
                        "d35edd27-2aa9-4067-b35d-5796a8b4f773.JPG",
@@ -2152,8 +1971,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-127",
-        "name":  "Dark Brown Python Accent Sneaker (STYLE 127)",
+        "id":  "shoe-116",
+        "name":  "Dark Brown Python Accent Sneaker Style# 116",
         "image":  "d9fae857-1234-4196-81bb-770fe3b1d431.JPG",
         "images":  [
                        "d9fae857-1234-4196-81bb-770fe3b1d431.JPG"
@@ -2169,8 +1988,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-128",
-        "name":  "Tan Pebbled Leather Slip-On Loafer (STYLE 128)",
+        "id":  "shoe-117",
+        "name":  "Tan Pebbled Leather Slip-On Loafer Style# 117",
         "image":  "e0894aaf-d315-4360-8f15-ae6e8c674c75.JPG",
         "images":  [
                        "e0894aaf-d315-4360-8f15-ae6e8c674c75.JPG"
@@ -2186,8 +2005,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-129",
-        "name":  "Brown Suede T-Strap Loafer (STYLE 129)",
+        "id":  "shoe-118",
+        "name":  "Brown Suede T-Strap Loafer Style# 118",
         "image":  "e7faef09-d990-4162-8d97-7accd903490c.JPG",
         "images":  [
                        "e7faef09-d990-4162-8d97-7accd903490c.JPG"
@@ -2203,8 +2022,8 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-130",
-        "name":  "Mustard Pebbled Leather Driving Loafer (STYLE 130)",
+        "id":  "shoe-119",
+        "name":  "Mustard Pebbled Leather Driving Loafer Style# 119",
         "image":  "f116a2c5-16c4-4462-becf-c0216b520e33.JPG",
         "images":  [
                        "f116a2c5-16c4-4462-becf-c0216b520e33.JPG"
@@ -2220,12 +2039,30 @@
         "bestSeller":  false
     },
     {
-        "id":  "shoe-131",
-        "name":  "Tan Leather Mary Jane Flat (STYLE 131)",
+        "id":  "shoe-120",
+        "name":  "Tan Leather Mary Jane Flat Style# 120",
         "image":  "f539c60e-3af2-4791-8c5f-f49dceb450ae.JPG",
         "images":  [
                        "f539c60e-3af2-4791-8c5f-f49dceb450ae.JPG"
                    ],
+        "materials":  "Turkish leather upper and synthetic sole",
+        "sizes":  "EU 36-40",
+        "care":  "Use leather conditioner and soft cloth; avoid moisture",
+        "lead_time":  "Price on request",
+        "moq":  "Price on request",
+        "price":  "Price on request",
+        "category":  "women",
+        "new":  false,
+        "bestSeller":  false
+    },
+    {
+        "id":  "shoe-121",
+        "name":  "Croco Penny Loafer - Black Style# 121",
+        "image":  "bb25588e-ce06-447a-a5c1-8e5ac6f82592.JPG",
+        "images":  [
+                       "bb25588e-ce06-447a-a5c1-8e5ac6f82592.JPG"
+                   ],
+        "description":  "Croco-embossed suede penny loafer in black with gold D-ring hardware and a tan rubber sole.",
         "materials":  "Turkish leather upper and synthetic sole",
         "sizes":  "EU 36-40",
         "care":  "Use leather conditioner and soft cloth; avoid moisture",
