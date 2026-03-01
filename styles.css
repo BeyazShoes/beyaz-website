@@ -104,7 +104,7 @@ header.scrolled {
 }
 
 .logo img {
-  height: 360px;
+  height: 580px;
   margin-right: 0;
 }
 
@@ -1001,7 +1001,7 @@ footer {
 
 @media (max-width: 480px) {
   .logo img {
-    height: 200px;
+    height: 280px;
   }
 
   .hero .hero-content h1 {
